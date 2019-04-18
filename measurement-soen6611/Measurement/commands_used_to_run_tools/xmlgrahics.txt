@@ -1,21 +1,26 @@
-		<plugin>
-		
-		<groupId>org.jacoco</groupId>
-		<artifactId>jacoco-maven-plugin</artifactId>
-		<version>0.8.2</version>
-		<executions>
-			<execution>
-				<goals>
-					<goal>prepare-agent</goal>
-				</goals>
-			</execution>
-			<!-- attached to Maven test phase -->
-			<execution>
-				<id>report</id>
-				<phase>test</phase>
-				<goals>
-					<goal>report</goal>
-				</goals>
-			</execution>
-		</executions>
-	</plugin>
+    
+Go to the location of the project's pom.xml;
+
+commands to run jacoco plugin from maven for xmlgraphics project:
+
+mvn clean install
+
+and
+
+mvn clean test(optional), if just running jacoco
+
+check target/site folder for jacoco report
+
+If running from eclipse eclemma plugin,
+
+First, install EclEmma plugin in eclipse Luna, right click on the project and do coverage as Junit test
+
+For Cyclomatic complexity,
+
+First, install Metrics plugin in eclipse Luna, right click on the project and build the project in project explorer view
+
+commands to run PITest plugin from maven for xmlgraphics project:
+
+mvn org.pitest:pitest-maven:mutationCoverage
+
+check target/pit-report folder for mutation report
