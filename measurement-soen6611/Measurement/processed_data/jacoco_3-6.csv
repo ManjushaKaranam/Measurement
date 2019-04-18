@@ -1,0 +1,1076 @@
+CLASS,BRANCH_MISSED,BRANCH_COVERED,Total_Branch,Branch_Coverage,LINE_MISSED,LINE_COVERED,Total_Line,Line_coverage,COMPLEXITY_MISSED,COMPLEXITY_COVERED,Total_complexity
+NonLinearConjugateGradientOptimizer.IdentityPreconditioner,0,0,0,100,0,2,2,1,0,2,2
+NonLinearConjugateGradientOptimizer.Formula,0,0,0,100,0,3,3,1,0,1,1
+NonLinearConjugateGradientOptimizer,5,28,33,0.848484848,10,61,71,0.85915493,7,19,26
+NonLinearConjugateGradientOptimizer.BracketingStep,0,0,0,100,4,0,4,0,2,0,2
+QuasiSigmoidDecayFunction,0,6,6,1,0,18,18,1,0,5,5
+ExponentialDecayFunction,0,8,8,1,0,13,13,1,0,6,6
+SimpleUnivariateValueChecker,2,8,10,0.8,3,16,19,0.842105263,3,6,9
+BaseAbstractUnivariateOptimizer,2,2,4,0.5,2,27,29,0.931034483,2,11,13
+UnivariatePointValuePair,0,0,0,100,0,6,6,1,0,3,3
+BracketFinder,16,30,46,0.652173913,17,76,93,0.817204301,17,18,35
+BrentOptimizer,5,69,74,0.932432432,6,116,122,0.950819672,5,37,42
+UnivariateMultiStartOptimizer,4,10,14,0.714285714,5,28,33,0.848484848,6,9,15
+UnivariateMultiStartOptimizer.new Comparator() {...},3,5,8,0.625,1,8,9,0.888888889,3,3,6
+RegressionResults,28,30,58,0.517241379,34,53,87,0.609195402,28,18,46
+GLSMultipleLinearRegression,0,2,2,1,3,21,24,0.875,1,7,8
+OLSMultipleLinearRegression,0,12,12,1,0,43,43,1,0,18,18
+MillerUpdatingRegression,66,208,274,0.759124088,83,429,512,0.837890625,57,104,161
+SimpleRegression,44,80,124,0.64516129,49,179,228,0.785087719,33,61,94
+AbstractMultipleLinearRegression,6,42,48,0.875,6,78,84,0.928571429,7,37,44
+ModelSpecificationException,0,0,0,100,0,2,2,1,0,1,1
+OrientedPoint,2,4,6,0.666666667,8,12,20,0.6,7,9,16
+Vector1DFormat,1,3,4,0.75,4,19,23,0.826086957,2,9,11
+Euclidean1D.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+Vector1D,1,15,16,0.9375,3,71,74,0.959459459,2,41,43
+Euclidean1D,0,0,0,100,0,4,4,1,0,4,4
+Euclidean1D.NoSubSpaceException,0,0,0,100,0,2,2,1,0,1,1
+IntervalsSet,15,77,92,0.836956522,19,125,144,0.868055556,17,60,77
+SubOrientedPoint,0,4,4,1,1,10,11,0.909090909,1,6,7
+IntervalsSet.SubIntervalsIterator,1,21,22,0.954545455,2,34,36,0.944444444,2,14,16
+Interval,0,10,10,1,4,16,20,0.8,4,11,15
+Relationship,0,3,3,1,1,11,12,0.916666667,1,5,6
+AbstractLinearOptimizer,1,1,2,0.5,1,19,20,0.95,1,10,11
+LinearConstraint,7,5,12,0.416666667,18,21,39,0.538461538,9,8,17
+SimplexSolver,0,54,54,1,0,82,82,1,0,34,34
+LinearObjectiveFunction,4,4,8,0.5,4,19,23,0.826086957,6,8,14
+UnboundedSolutionException,0,0,0,100,0,2,2,1,0,1,1
+SimplexTableau,11,117,128,0.9140625,10,178,188,0.946808511,14,82,96
+NoFeasibleSolutionException,0,0,0,100,0,2,2,1,0,1,1
+FastMath.Split,1,21,22,0.954545455,1,37,38,0.973684211,1,17,18
+OpenIntToDoubleHashMap,0,68,68,1,0,157,157,1,0,58,58
+FastMath.CodyWaite,0,2,2,1,0,24,24,1,0,5,5
+DefaultTransformer,0,6,6,1,1,12,13,0.923076923,1,6,7
+FastMath.lnMant,0,0,0,100,0,2,2,1,0,1,1
+Combinations.LexicographicIterator,3,15,18,0.833333333,4,38,42,0.904761905,4,9,13
+Decimal64,2,12,14,0.857142857,11,86,97,0.886597938,11,67,78
+IntegerSequence.Incrementor.new IntegerSequence.Incrementor.MaxCountExceededCallback() {...},0,0,0,100,0,2,2,1,0,2,2
+ResizableDoubleArray,11,78,89,0.876404494,18,216,234,0.923076923,18,76,94
+FastMath,53,775,828,0.935990338,37,1434,1471,0.974847043,45,462,507
+BigReal,0,4,4,1,6,76,82,0.926829268,4,33,37
+Decimal64Field,0,0,0,100,0,5,5,1,0,5,5
+MultidimensionalCounter.Iterator,1,7,8,0.875,3,16,19,0.842105263,4,7,11
+IntegerSequence.Range,0,4,4,1,0,12,12,1,0,5,5
+MedianOf3PivotingStrategy,0,10,10,1,0,14,14,1,0,7,7
+MathUtils,22,44,66,0.666666667,4,38,42,0.904761905,16,32,48
+Precision,33,98,131,0.748091603,3,116,119,0.974789916,24,67,91
+IterationEvent,0,0,0,100,0,4,4,1,0,2,2
+Combinations,1,5,6,0.833333333,1,15,16,0.9375,1,8,9
+KthSelector,1,37,38,0.973684211,0,47,47,1,1,23,24
+FastMath.ExpIntTable,0,0,0,100,0,3,3,1,0,1,1
+CombinatoricsUtils,2,96,98,0.979591837,2,120,122,0.983606557,3,56,59
+FastMathCalc,62,0,62,0,275,0,275,0,48,0,48
+MathArrays,46,245,291,0.841924399,33,465,498,0.93373494,34,172,206
+IterationManager.new IntegerSequence.Incrementor.MaxCountExceededCallback() {...},0,0,0,100,3,0,3,0,2,0,2
+MathArrays.new Comparator() {...},0,0,0,100,0,2,2,1,0,2,2
+MathArrays.new Comparator() {...},0,0,0,100,0,2,2,1,0,2,2
+OpenIntToDoubleHashMap.Iterator,4,12,16,0.75,4,24,28,0.857142857,4,9,13
+CompositeFormat,1,27,28,0.964285714,0,56,56,1,1,21,22
+OpenIntToFieldHashMap.Iterator,4,12,16,0.75,5,23,28,0.821428571,4,9,13
+IntegerSequence.Incrementor,1,13,14,0.928571429,4,32,36,0.888888889,3,20,23
+FastMathLiteralArrays,0,0,0,100,0,10,10,1,0,6,6
+Incrementor.new Incrementor() {...},0,0,0,100,9,5,14,0.357142857,3,1,4
+Incrementor.new Incrementor.MaxCountExceededCallback() {...},0,0,0,100,0,2,2,1,0,2,2
+MultidimensionalCounter,2,22,24,0.916666667,4,45,49,0.918367347,2,18,20
+Combinations.LexicographicComparator,0,14,14,1,0,26,26,1,0,10,10
+Combinations.IterationOrder,0,0,0,100,0,2,2,1,0,1,1
+Combinations.SingletonIterator,1,1,2,0.5,2,8,10,0.8,2,3,5
+MathArrays.PairDoubleInteger,0,0,0,100,0,6,6,1,0,3,3
+ResizableDoubleArray.ExpansionMode,0,0,0,100,0,3,3,1,0,1,1
+ContinuedFraction,7,9,16,0.5625,11,31,42,0.738095238,9,4,13
+Incrementor,1,7,8,0.875,2,23,25,0.92,1,14,15
+MathArrays.OrderDirection,0,0,0,100,0,3,3,1,0,1,1
+ArithmeticUtils,10,140,150,0.933333333,20,200,220,0.909090909,15,87,102
+FastMath.ExpFracTable,0,0,0,100,0,3,3,1,0,1,1
+RandomPivotingStrategy,0,0,0,100,2,3,5,0.6,1,1,2
+IntegerSequence,0,0,0,100,0,2,2,1,0,2,2
+IterationManager,0,8,8,1,9,27,36,0.75,4,13,17
+MathArrays.Position,0,0,0,100,0,3,3,1,0,1,1
+BigRealField,0,0,0,100,1,4,5,0.8,1,4,5
+OpenIntToFieldHashMap,0,68,68,1,5,155,160,0.96875,2,57,59
+TransformerMap,8,12,20,0.6,10,31,41,0.756097561,8,14,22
+Pair,5,15,20,0.75,3,21,24,0.875,6,14,20
+CentralPivotingStrategy,0,0,0,100,2,1,3,0.333333333,1,1,2
+BigRealField.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+DummyLocalizable,0,0,0,100,6,0,6,0,4,0,4
+ArgUtils,1,7,8,0.875,0,8,8,1,1,4,5
+LocalizedFormats,1,1,2,0.5,1,340,341,0.997067449,1,4,5
+ExceptionContext,0,20,20,1,1,79,80,0.9875,1,27,28
+FuzzyKMeansClusterer,16,40,56,0.714285714,24,101,125,0.808,15,31,46
+MultiKMeansPlusPlusClusterer,0,4,4,1,3,16,19,0.842105263,3,5,8
+KMeansPlusPlusClusterer.EmptyClusterStrategy,0,0,0,100,0,5,5,1,0,1,1
+DoublePoint,1,3,4,0.75,2,12,14,0.857142857,2,6,8
+CentroidCluster,0,0,0,100,0,4,4,1,0,2,2
+DBSCANClusterer.PointStatus,0,0,0,100,0,3,3,1,0,1,1
+Clusterer,0,0,0,100,0,5,5,1,0,3,3
+DBSCANClusterer,0,28,28,1,0,55,55,1,0,22,22
+Cluster,0,0,0,100,0,6,6,1,0,3,3
+KMeansPlusPlusClusterer,38,50,88,0.568181818,65,104,169,0.615384615,31,31,62
+LegendreHighPrecisionRuleFactory,0,24,24,1,0,98,98,1,0,15,15
+SymmetricGaussIntegrator,0,6,6,1,0,25,25,1,0,6,6
+HermiteRuleFactory,0,24,24,1,0,69,69,1,0,14,14
+BaseRuleFactory,2,8,10,0.8,4,28,32,0.875,2,8,10
+GaussIntegratorFactory,0,2,2,1,0,18,18,1,0,9,9
+LegendreRuleFactory,0,24,24,1,0,61,61,1,0,14,14
+GaussIntegrator,1,3,4,0.75,1,21,22,0.954545455,1,7,8
+Kurtosis,3,13,16,0.8125,3,49,52,0.942307692,4,14,18
+FourthMoment,0,2,2,1,3,26,29,0.896551724,1,7,8
+StandardDeviation,0,0,0,100,9,28,37,0.756756757,5,12,17
+VectorialCovariance,9,19,28,0.678571429,13,39,52,0.75,9,12,21
+ThirdMoment,0,2,2,1,0,29,29,1,0,8,8
+SemiVariance.Direction,0,0,0,100,0,7,7,1,0,3,3
+FirstMoment,0,2,2,1,3,32,35,0.914285714,1,8,9
+SecondMoment,0,2,2,1,3,20,23,0.869565217,1,7,8
+GeometricMean,1,3,4,0.75,6,29,35,0.828571429,3,12,15
+VectorialMean,4,12,16,0.75,7,20,27,0.740740741,5,9,14
+Mean,3,9,12,0.75,4,43,47,0.914893617,4,14,18
+SemiVariance,0,12,12,1,23,32,55,0.581818182,9,14,23
+Skewness,2,14,16,0.875,3,52,55,0.945454545,3,15,18
+Variance,14,32,46,0.695652174,10,101,111,0.90990991,17,27,44
+Atan,0,0,0,100,2,2,4,0.5,2,2,4
+Atanh,0,0,0,100,4,0,4,0,4,0,4
+Cosh,0,0,0,100,1,3,4,0.75,1,3,4
+Atan2,0,0,0,100,2,0,2,0,2,0,2
+Divide,0,0,0,100,0,2,2,1,0,2,2
+Tan,0,0,0,100,2,2,4,0.5,2,2,4
+Floor,0,0,0,100,0,2,2,1,0,2,2
+Expm1,0,0,0,100,2,2,4,0.5,2,2,4
+Logit.Parametric,0,4,4,1,4,8,12,0.666666667,1,5,6
+Abs,0,0,0,100,0,2,2,1,0,2,2
+Constant,0,0,0,100,1,5,6,0.833333333,1,3,4
+Ceil,0,0,0,100,0,2,2,1,0,2,2
+Add,0,0,0,100,0,2,2,1,0,2,2
+Logit,0,16,16,1,3,27,30,0.9,2,12,14
+Logistic,0,2,2,1,1,13,14,0.928571429,1,5,6
+Acos,0,0,0,100,2,2,4,0.5,2,2,4
+Sigmoid.Parametric,0,4,4,1,0,11,11,1,0,6,6
+Max,0,0,0,100,0,2,2,1,0,2,2
+Rint,0,0,0,100,0,2,2,1,0,2,2
+Asinh,0,0,0,100,4,0,4,0,4,0,4
+HarmonicOscillator,0,4,4,1,1,17,18,0.944444444,1,6,7
+Acosh,0,0,0,100,4,0,4,0,4,0,4
+Gaussian,0,14,14,1,1,37,38,0.973684211,1,13,14
+StepFunction,0,14,14,1,0,19,19,1,0,9,9
+Min,0,0,0,100,0,2,2,1,0,2,2
+Sigmoid,0,8,8,1,1,28,29,0.965517241,1,9,10
+HarmonicOscillator.Parametric,0,4,4,1,0,17,17,1,0,6,6
+Power,0,0,0,100,1,5,6,0.833333333,1,3,4
+Identity,0,0,0,100,1,3,4,0.75,1,3,4
+Signum,0,0,0,100,0,2,2,1,0,2,2
+Multiply,0,0,0,100,0,2,2,1,0,2,2
+Minus,0,0,0,100,1,3,4,0.75,1,3,4
+Sin,0,0,0,100,0,4,4,1,0,4,4
+Log10,0,0,0,100,2,2,4,0.5,2,2,4
+Asin,0,0,0,100,2,2,4,0.5,2,2,4
+Logistic.Parametric,0,6,6,1,2,25,27,0.925925926,1,6,7
+Sqrt,0,0,0,100,1,3,4,0.75,1,3,4
+Ulp,0,0,0,100,0,2,2,1,0,2,2
+Tanh,0,0,0,100,2,2,4,0.5,2,2,4
+Log1p,0,0,0,100,2,2,4,0.5,2,2,4
+Subtract,0,0,0,100,2,0,2,0,2,0,2
+Exp,0,0,0,100,2,2,4,0.5,2,2,4
+Gaussian.Parametric,0,6,6,1,0,21,21,1,0,7,7
+Cos,0,0,0,100,1,3,4,0.75,1,3,4
+Log,0,0,0,100,1,3,4,0.75,1,3,4
+Sinc,2,24,26,0.923076923,1,50,51,0.980392157,3,15,18
+Sinh,0,0,0,100,2,2,4,0.5,2,2,4
+Pow,0,0,0,100,0,2,2,1,0,2,2
+Inverse,0,0,0,100,1,3,4,0.75,1,3,4
+Cbrt,0,0,0,100,2,2,4,0.5,2,2,4
+PSquarePercentile.Markers,0,38,38,1,0,90,90,1,0,35,35
+Percentile,3,42,45,0.933333333,10,106,116,0.913793103,4,47,51
+PSquarePercentile.FixedCapacityList,3,5,8,0.625,0,7,7,1,3,4,7
+PSquarePercentile,0,48,48,1,0,77,77,1,0,39,39
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,5,5,1,0,4,4
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,5,5,1,0,4,4
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,5,5,1,0,4,4
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,5,5,1,0,4,4
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,5,5,1,0,4,4
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,5,5,1,0,4,4
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,5,5,1,0,4,4
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,2,2,1,0,4,4,1,0,3,3
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,4,4,1,0,10,10,1,0,5,5
+Percentile.EstimationType.new Percentile.EstimationType() {...},0,2,2,1,0,4,4,1,0,4,4
+Median,0,0,0,100,3,6,9,0.666666667,2,4,6
+Percentile.EstimationType,0,8,8,1,0,31,31,1,0,10,10
+PSquarePercentile.Marker,7,43,50,0.86,1,71,72,0.986111111,7,33,40
+Min,0,12,12,1,3,29,32,0.90625,1,14,15
+Max,0,12,12,1,3,29,32,0.90625,1,14,15
+DfpField,7,39,46,0.847826087,11,156,167,0.934131737,17,46,63
+BracketingNthOrderBrentSolverDFP.new RealFieldUnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+Dfp,81,699,780,0.896153846,82,1016,1098,0.925318761,83,427,510
+DfpDec,12,100,112,0.892857143,25,109,134,0.813432836,22,56,78
+DfpField.RoundingMode,0,0,0,100,0,9,9,1,0,1,1
+DfpMath,40,154,194,0.793814433,34,337,371,0.908355795,29,88,117
+BracketingNthOrderBrentSolverDFP,0,0,0,100,1,8,9,0.888888889,1,5,6
+EvaluationRmsChecker,0,4,4,1,2,8,10,0.8,1,4,5
+LevenbergMarquardtOptimizer.InternalData,0,0,0,100,0,8,8,1,0,1,1
+OptimumImpl,0,0,0,100,2,12,14,0.857142857,2,8,10
+LeastSquaresAdapter,0,0,0,100,0,10,10,1,0,8,8
+DenseWeightedEvaluation,0,0,0,100,0,7,7,1,0,4,4
+GaussNewtonOptimizer.Decomposition.new GaussNewtonOptimizer.Decomposition() {...},0,0,0,100,0,4,4,1,0,2,2
+GaussNewtonOptimizer.Decomposition.new GaussNewtonOptimizer.Decomposition() {...},0,0,0,100,0,10,10,1,0,2,2
+GaussNewtonOptimizer.Decomposition.new GaussNewtonOptimizer.Decomposition() {...},0,0,0,100,0,6,6,1,0,2,2
+GaussNewtonOptimizer.Decomposition.new GaussNewtonOptimizer.Decomposition() {...},0,0,0,100,0,10,10,1,0,2,2
+LevenbergMarquardtOptimizer,16,186,202,0.920792079,17,361,378,0.955026455,20,99,119
+LeastSquaresFactory.LocalValueAndJacobianFunction,0,0,0,100,0,9,9,1,0,4,4
+LeastSquaresBuilder,0,0,0,100,2,22,24,0.916666667,1,14,15
+GaussNewtonOptimizer,1,17,18,0.944444444,6,41,47,0.872340426,5,11,16
+AbstractEvaluation,0,2,2,1,0,18,18,1,0,6,6
+LeastSquaresFactory.LocalLeastSquaresProblem.UnweightedEvaluation,0,0,0,100,0,8,8,1,0,4,4
+LeastSquaresFactory.LocalLeastSquaresProblem.LazyUnweightedEvaluation,0,0,0,100,3,5,8,0.625,3,1,4
+LeastSquaresFactory.new LeastSquaresAdapter() {...},0,0,0,100,3,0,3,0,2,0,2
+LeastSquaresFactory.new ConvergenceChecker() {...},0,0,0,100,0,6,6,1,0,2,2
+LeastSquaresFactory,0,6,6,1,5,16,21,0.761904762,5,8,13
+LeastSquaresFactory.new LeastSquaresAdapter() {...},0,0,0,100,0,2,2,1,0,2,2
+GaussNewtonOptimizer.Decomposition,0,0,0,100,0,5,5,1,0,1,1
+LeastSquaresFactory.LocalLeastSquaresProblem,1,9,10,0.9,0,21,21,1,1,9,10
+MultistepIntegrator.InitializationCompletedMarkerException,0,0,0,100,0,2,2,1,0,1,1
+ExpandableStatefulODE.SecondaryComponent,0,0,0,100,0,7,7,1,0,1,1
+ExpandableStatefulODE,4,14,18,0.777777778,7,58,65,0.892307692,6,20,26
+JacobianMatrices,9,25,34,0.735294118,9,68,77,0.883116883,9,19,28
+UnknownParameterException,0,0,0,100,0,4,4,1,0,2,2
+MultistepFieldIntegrator.InitializationCompletedMarkerException,0,0,0,100,0,2,2,1,0,1,1
+MultistepIntegrator.NordsieckInitializer,2,8,10,0.8,6,36,42,0.857142857,2,6,8
+AbstractIntegrator,2,54,56,0.964285714,2,135,137,0.98540146,4,49,53
+JacobianMatrices.MismatchedEquations,0,0,0,100,2,0,2,0,1,0,1
+MultistepFieldIntegrator,1,7,8,0.875,7,49,56,0.875,6,12,18
+ContinuousOutputModel,3,45,48,0.9375,3,110,113,0.973451327,5,32,37
+FirstOrderConverter,0,0,0,100,0,14,14,1,0,3,3
+FieldEquationsMapper,0,26,26,1,0,61,61,1,0,22,22
+ParameterConfiguration,0,0,0,100,0,8,8,1,0,4,4
+AbstractParameterizable,0,8,8,1,5,13,18,0.722222222,2,7,9
+ParameterizedWrapper,2,0,2,0,12,0,12,0,8,0,8
+FieldODEState,0,10,10,1,0,19,19,1,0,14,14
+MultistepIntegrator,2,2,4,0.5,7,37,44,0.840909091,6,9,15
+AbstractFieldIntegrator,6,44,50,0.88,3,123,126,0.976190476,8,46,54
+MultistepFieldIntegrator.FieldNordsieckInitializer,0,6,6,1,0,28,28,1,0,6,6
+AbstractIntegrator.new Comparator() {...},0,0,0,100,0,2,2,1,0,2,2
+JacobianMatrices.JacobiansSecondaryEquations,5,21,26,0.807692308,1,39,40,0.975,5,11,16
+FieldODEStateAndDerivative,0,2,2,1,0,8,8,1,0,5,5
+FieldExpandableODE,0,4,4,1,0,28,28,1,0,7,7
+MultistepIntegrator.new FirstOrderDifferentialEquations() {...},0,0,0,100,4,0,4,0,3,0,3
+JacobianMatrices.MainStateJacobianWrapper,1,5,6,0.833333333,1,18,19,0.947368421,1,6,7
+EquationsMapper,2,2,4,0.5,2,12,14,0.857142857,2,5,7
+ParameterJacobianWrapper,2,6,8,0.75,2,22,24,0.916666667,3,5,8
+AbstractFieldIntegrator.new Comparator() {...},0,0,0,100,0,2,2,1,0,2,2
+ContinuousOutputFieldModel,4,46,50,0.92,2,112,114,0.98245614,4,30,34
+FastFourierTransformer.MultiDimensionalComplexMatrix,8,22,30,0.733333333,8,53,61,0.868852459,6,16,22
+FastFourierTransformer,9,54,63,0.857142857,4,169,173,0.976878613,9,33,42
+TransformUtils,4,10,14,0.714285714,7,24,31,0.774193548,4,9,13
+FastCosineTransformer,0,14,14,1,0,44,44,1,0,11,11
+DstNormalization,0,0,0,100,0,3,3,1,0,1,1
+TransformType,0,0,0,100,0,3,3,1,0,1,1
+DctNormalization,0,0,0,100,0,3,3,1,0,1,1
+DftNormalization,0,0,0,100,0,3,3,1,0,1,1
+FastHadamardTransformer,1,17,18,0.944444444,3,39,42,0.928571429,2,13,15
+FastSineTransformer,0,14,14,1,0,40,40,1,0,11,11
+UnivariatePeriodicInterpolator.new UnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+InterpolatingMicrosphere.Facet,0,0,0,100,0,4,4,1,0,2,2
+TricubicSplineInterpolatingFunction,10,70,80,0.875,6,97,103,0.941747573,10,35,45
+MicrosphereInterpolatingFunction.MicrosphereSurfaceElement,0,2,2,1,0,13,13,1,0,7,7
+BicubicSplineFunction.new BivariateFunction() {...},0,0,0,100,0,6,6,1,0,2,2
+LoessInterpolator,4,48,52,0.923076923,6,110,116,0.948275862,6,30,36
+BicubicSplineFunction.new BivariateFunction() {...},0,0,0,100,5,1,6,0.166666667,1,1,2
+BicubicSplineFunction.new BivariateFunction() {...},0,0,0,100,5,1,6,0.166666667,1,1,2
+BicubicSplineFunction.new BivariateFunction() {...},0,0,0,100,0,7,7,1,0,2,2
+BicubicSplineFunction.new BivariateFunction() {...},0,0,0,100,0,7,7,1,0,2,2
+MicrosphereProjectionInterpolator.new MultivariateFunction() {...},0,0,0,100,0,4,4,1,0,2,2
+BicubicSplineInterpolatingFunction,6,48,54,0.888888889,3,81,84,0.964285714,8,32,40
+TricubicSplineFunction,6,18,24,0.75,3,25,28,0.892857143,6,8,14
+SmoothingPolynomialBicubicSplineInterpolator,5,27,32,0.84375,5,45,50,0.9,6,14,20
+FieldHermiteInterpolator,0,30,30,1,0,64,64,1,0,19,19
+BicubicInterpolator.new BicubicInterpolatingFunction() {...},0,8,8,1,0,4,4,1,0,6,6
+InterpolatingMicrosphere2D,0,2,2,1,3,6,9,0.666666667,2,2,4
+TricubicFunction,6,18,24,0.75,3,25,28,0.892857143,6,8,14
+PiecewiseBicubicSplineInterpolator,4,10,14,0.714285714,1,7,8,0.875,4,5,9
+AkimaSplineInterpolator,3,23,26,0.884615385,4,63,67,0.940298507,3,14,17
+DividedDifferenceInterpolator,0,4,4,1,0,17,17,1,0,5,5
+SplineInterpolator,0,12,12,1,0,38,38,1,0,8,8
+HermiteInterpolator,0,28,28,1,0,62,62,1,0,21,21
+TricubicSplineInterpolator,4,50,54,0.925925926,1,78,79,0.987341772,4,27,31
+BicubicInterpolator,3,9,12,0.75,1,28,29,0.965517241,3,5,8
+MicrosphereInterpolatingFunction,8,22,30,0.733333333,6,42,48,0.875,8,10,18
+MicrosphereProjectionInterpolator,8,8,16,0.5,6,17,23,0.739130435,8,3,11
+MicrosphereInterpolator,2,2,4,0.5,2,10,12,0.833333333,2,3,5
+TricubicInterpolatingFunction,22,70,92,0.760869565,9,104,113,0.920353982,17,35,52
+BicubicSplineInterpolator,3,31,34,0.911764706,1,48,49,0.979591837,3,19,22
+NevilleInterpolator,0,0,0,100,0,2,2,1,0,2,2
+TricubicInterpolator.new TricubicInterpolatingFunction() {...},12,0,12,0,3,1,4,0.25,7,1,8
+BicubicInterpolatingFunction,6,42,48,0.875,1,63,64,0.984375,6,24,30
+LinearInterpolator,0,8,8,1,0,18,18,1,0,6,6
+PiecewiseBicubicSplineInterpolatingFunction,16,36,52,0.692307692,5,48,53,0.905660377,13,17,30
+BicubicFunction,4,10,14,0.714285714,2,21,23,0.913043478,4,6,10
+BicubicSplineFunction,4,18,22,0.818181818,4,50,54,0.925925926,5,15,20
+TricubicInterpolator,4,16,20,0.8,1,51,52,0.980769231,4,8,12
+InterpolatingMicrosphere,11,31,42,0.738095238,21,58,79,0.734177215,13,19,32
+UnivariatePeriodicInterpolator,0,6,6,1,0,28,28,1,0,6,6
+InterpolatingMicrosphere.FacetData,0,0,0,100,0,6,6,1,0,3,3
+NeuronString,4,18,22,0.818181818,5,40,45,0.888888889,6,13,19
+NeuronString.SerializationProxy,0,0,0,100,0,5,5,1,0,2,2
+SumOfClusterVariances,1,5,6,0.833333333,0,13,13,1,1,4,5
+ClusterEvaluator,1,11,12,0.916666667,3,19,22,0.863636364,2,9,11
+LegendreGaussIntegrator,1,12,13,0.923076923,4,68,72,0.944444444,2,12,14
+SimpsonIntegrator,5,7,12,0.583333333,7,22,29,0.75862069,5,5,10
+IterativeLegendreGaussIntegrator.new UnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+IterativeLegendreGaussIntegrator,1,7,8,0.875,1,34,35,0.971428571,1,9,10
+RombergIntegrator,4,8,12,0.666666667,6,31,37,0.837837838,4,6,10
+BaseAbstractUnivariateIntegrator,1,3,4,0.75,3,40,43,0.930232558,2,15,17
+TrapezoidIntegrator,4,10,14,0.714285714,6,37,43,0.860465116,4,8,12
+MidPointIntegrator,3,9,12,0.75,3,32,35,0.914285714,3,8,11
+VectorFormat,1,15,16,0.9375,13,37,50,0.74,8,12,20
+HarmonicFitter.ParameterGuesser,2,28,30,0.933333333,1,93,94,0.989361702,2,18,20
+CurveFitter.OldTheoreticalValuesFunction,0,2,2,1,0,10,10,1,0,4,4
+PolynomialFitter,0,0,0,100,5,4,9,0.444444444,3,2,5
+GaussianFitter.ParameterGuesser.new Comparator() {...},15,5,20,0.25,15,8,23,0.347826087,10,2,12
+CurveFitter.OldTheoreticalValuesFunction.new MultivariateMatrixFunction() {...},0,2,2,1,0,7,7,1,0,3,3
+WeightedObservedPoint,0,0,0,100,0,8,8,1,0,4,4
+CurveFitter,1,3,4,0.75,10,22,32,0.6875,4,7,11
+GaussianFitter.ParameterGuesser,6,28,34,0.823529412,5,55,60,0.916666667,6,19,25
+CurveFitter.TheoreticalValuesFunction,8,0,8,0,21,0,21,0,7,0,7
+GaussianFitter,0,0,0,100,0,6,6,1,0,3,3
+GaussianFitter.new Gaussian.Parametric() {...},0,0,0,100,1,10,11,0.909090909,0,3,3
+HarmonicFitter,0,0,0,100,0,4,4,1,0,3,3
+UnboundedSolutionException,0,0,0,100,0,2,2,1,0,1,1
+LinearConstraint,6,6,12,0.5,15,24,39,0.615384615,7,10,17
+NonNegativeConstraint,0,0,0,100,0,4,4,1,0,2,2
+PivotSelectionRule,0,0,0,100,0,3,3,1,0,1,1
+Relationship,0,3,3,1,1,11,12,0.916666667,1,5,6
+LinearObjectiveFunction,4,4,8,0.5,3,20,23,0.869565217,5,9,14
+SimplexSolver,3,61,64,0.953125,6,101,107,0.943925234,5,39,44
+LinearOptimizer,0,8,8,1,0,18,18,1,0,10,10
+LinearConstraintSet,2,0,2,0,4,5,9,0.555555556,2,2,4
+NoFeasibleSolutionException,0,0,0,100,0,2,2,1,0,1,1
+SimplexTableau,11,127,138,0.920289855,10,205,215,0.953488372,14,92,106
+SolutionCallback,0,4,4,1,0,5,5,1,0,6,6
+AdamsMoultonIntegrator,2,30,32,0.9375,4,76,80,0.95,2,17,19
+HighamHall54FieldIntegrator,0,8,8,1,0,76,76,1,0,12,12
+AdamsMoultonIntegrator.Corrector,2,6,8,0.75,0,21,21,1,2,6,8
+GillFieldIntegrator,0,2,2,1,0,28,28,1,0,6,6
+EmbeddedRungeKuttaFieldIntegrator,0,50,50,1,3,101,104,0.971153846,3,33,36
+RungeKuttaStepInterpolator,7,23,30,0.766666667,2,49,51,0.960784314,7,14,21
+ClassicalRungeKuttaIntegrator,0,0,0,100,0,5,5,1,0,2,2
+HighamHall54Integrator,0,6,6,1,0,19,19,1,0,8,8
+DormandPrince853StepInterpolator,5,43,48,0.895833333,4,116,120,0.966666667,5,29,34
+AdamsNordsieckTransformer,0,32,32,1,1,74,75,0.986666667,1,23,24
+RungeKuttaFieldIntegrator,1,39,40,0.975,1,73,74,0.986486486,1,23,24
+GillFieldStepInterpolator,1,3,4,0.75,0,33,33,1,1,4,5
+MidpointFieldStepInterpolator,1,3,4,0.75,0,16,16,1,1,4,5
+ClassicalRungeKuttaStepInterpolator,1,7,8,0.875,0,35,35,1,1,7,8
+EulerFieldStepInterpolator,1,3,4,0.75,0,9,9,1,1,4,5
+ThreeEighthesFieldStepInterpolator,1,3,4,0.75,0,27,27,1,1,4,5
+RungeKuttaIntegrator,1,43,44,0.977272727,1,82,83,0.987951807,1,24,25
+ThreeEighthesStepInterpolator,1,7,8,0.875,0,38,38,1,1,7,8
+ThreeEighthesIntegrator,0,0,0,100,0,5,5,1,0,2,2
+EulerFieldIntegrator,0,0,0,100,0,8,8,1,0,5,5
+AdaptiveStepsizeIntegrator,7,39,46,0.847826087,3,83,86,0.965116279,6,29,35
+EmbeddedRungeKuttaIntegrator,0,54,54,1,0,112,112,1,0,36,36
+HighamHall54FieldStepInterpolator,1,3,4,0.75,0,30,30,1,1,4,5
+LutherStepInterpolator,1,7,8,0.875,0,50,50,1,1,8,9
+EulerIntegrator,0,0,0,100,0,5,5,1,0,2,2
+GillIntegrator,0,0,0,100,0,8,8,1,0,2,2
+DormandPrince853Integrator,0,6,6,1,0,43,43,1,0,8,8
+LutherFieldIntegrator,0,2,2,1,0,47,47,1,0,6,6
+ClassicalRungeKuttaFieldStepInterpolator,1,3,4,0.75,0,26,26,1,1,4,5
+ThreeEighthesFieldIntegrator,0,2,2,1,0,24,24,1,0,6,6
+ClassicalRungeKuttaFieldIntegrator,0,2,2,1,0,24,24,1,0,6,6
+LutherIntegrator,0,0,0,100,0,6,6,1,0,2,2
+GraggBulirschStoerStepInterpolator,15,43,58,0.74137931,9,127,136,0.933823529,14,25,39
+HighamHall54StepInterpolator,1,7,8,0.875,0,41,41,1,1,7,8
+AdamsMoultonFieldIntegrator.Corrector,2,6,8,0.75,0,23,23,1,2,6,8
+DormandPrince853FieldIntegrator,1,7,8,0.875,1,229,230,0.995652174,1,11,12
+AdaptiveStepsizeFieldIntegrator,14,28,42,0.666666667,10,77,87,0.885057471,13,19,32
+MidpointIntegrator,0,0,0,100,0,5,5,1,0,2,2
+DormandPrince54Integrator,0,4,4,1,0,16,16,1,0,7,7
+DormandPrince853FieldStepInterpolator,1,7,8,0.875,0,182,182,1,1,7,8
+AdamsIntegrator,0,0,0,100,0,10,10,1,0,5,5
+LutherFieldStepInterpolator,1,3,4,0.75,0,48,48,1,1,4,5
+AdamsFieldStepInterpolator,0,6,6,1,1,31,32,0.96875,1,7,8
+RungeKuttaFieldStepInterpolator,0,6,6,1,0,14,14,1,0,9,9
+GraggBulirschStoerIntegrator,22,212,234,0.905982906,7,305,312,0.977564103,22,109,131
+DormandPrince54FieldStepInterpolator,1,3,4,0.75,0,124,124,1,1,4,5
+DormandPrince54FieldIntegrator,0,6,6,1,0,75,75,1,0,11,11
+MidpointStepInterpolator,1,7,8,0.875,0,24,24,1,1,7,8
+AdamsBashforthFieldIntegrator,2,34,36,0.944444444,1,79,80,0.9875,2,20,22
+AdamsBashforthIntegrator,3,35,38,0.921052632,4,83,87,0.954022989,3,20,23
+AdamsNordsieckFieldTransformer,0,32,32,1,0,75,75,1,0,23,23
+MidpointFieldIntegrator,0,0,0,100,0,13,13,1,0,5,5
+AdamsMoultonFieldIntegrator,1,29,30,0.966666667,1,70,71,0.985915493,1,17,18
+DormandPrince54StepInterpolator,1,15,16,0.9375,0,62,62,1,1,13,14
+EulerStepInterpolator,1,7,8,0.875,0,13,13,1,1,7,8
+AdamsFieldIntegrator,0,0,0,100,0,10,10,1,0,5,5
+GillStepInterpolator,1,7,8,0.875,0,43,43,1,1,8,9
+RealLinearOperator,0,0,0,100,2,1,3,0.333333333,2,1,3
+FieldLUDecomposition.Solver,2,52,54,0.962962963,2,80,82,0.975609756,2,31,33
+DefaultIterativeLinearSolverEvent,3,1,4,0.25,2,17,19,0.894736842,3,6,9
+BlockRealMatrix,14,264,278,0.949640288,38,690,728,0.947802198,11,182,193
+SymmLQ,2,8,10,0.8,13,48,61,0.786885246,7,10,17
+LUDecomposition.Solver,0,38,38,1,0,55,55,1,0,24,24
+RRQRDecomposition,2,18,20,0.9,1,47,48,0.979166667,2,15,17
+RRQRDecomposition.Solver,0,0,0,100,1,7,8,0.875,1,4,5
+DefaultFieldMatrixPreservingVisitor,0,0,0,100,1,5,6,0.833333333,1,3,4
+RectangularCholeskyDecomposition,2,26,28,0.928571429,2,54,56,0.964285714,2,16,18
+LUDecomposition,0,54,54,1,0,85,85,1,0,35,35
+SymmLQ.State,9,51,60,0.85,7,171,178,0.960674157,9,35,44
+Array2DRowRealMatrix,7,89,96,0.927083333,5,188,193,0.974093264,7,72,79
+SingularValueDecomposition.new DefaultRealMatrixPreservingVisitor() {...},0,0,0,100,0,3,3,1,0,2,2
+EigenDecomposition.Solver,2,36,38,0.947368421,2,63,65,0.969230769,2,23,25
+SparseRealVector,0,0,0,100,0,1,1,1,0,1,1
+SparseFieldVector,36,76,112,0.678571429,72,207,279,0.741935484,38,71,109
+NonSymmetricMatrixException,0,0,0,100,3,5,8,0.625,3,1,4
+NonSquareOperatorException,0,0,0,100,0,2,2,1,0,1,1
+CholeskyDecomposition.Solver,0,28,28,1,2,46,48,0.958333333,2,17,19
+OpenMapRealVector.OpenMapEntry,0,0,0,100,2,5,7,0.714285714,1,3,4
+MatrixUtils.BigFractionMatrixConverter,0,0,0,100,0,7,7,1,0,4,4
+RealVector.Entry,0,0,0,100,0,9,9,1,0,5,5
+BiDiagonalTransformer,7,103,110,0.936363636,3,155,158,0.981012658,10,55,65
+DefaultRealMatrixChangingVisitor,0,0,0,100,1,3,4,0.75,1,3,4
+DiagonalMatrix,1,37,38,0.973684211,1,84,85,0.988235294,1,42,43
+SingularValueDecomposition,13,171,184,0.929347826,4,271,275,0.985454545,14,92,106
+DefaultFieldMatrixChangingVisitor,0,0,0,100,1,5,6,0.833333333,1,3,4
+AbstractFieldMatrix.new DefaultFieldMatrixPreservingVisitor() {...},0,0,0,100,0,3,3,1,0,2,2
+AbstractFieldMatrix.new DefaultFieldMatrixPreservingVisitor() {...},0,0,0,100,0,6,6,1,0,3,3
+AbstractFieldMatrix.new DefaultFieldMatrixChangingVisitor() {...},0,0,0,100,0,2,2,1,0,2,2
+IllConditionedOperatorException,0,0,0,100,2,0,2,0,1,0,1
+SingularMatrixException,0,0,0,100,0,2,2,1,0,1,1
+CholeskyDecomposition,0,22,22,1,0,45,45,1,0,17,17
+SparseFieldMatrix,8,2,10,0.2,29,24,53,0.452830189,8,10,18
+AbstractRealMatrix.new DefaultRealMatrixPreservingVisitor() {...},0,0,0,100,0,3,3,1,0,2,2
+AbstractRealMatrix.new DefaultRealMatrixPreservingVisitor() {...},0,0,0,100,0,6,6,1,0,3,3
+AbstractRealMatrix.new DefaultRealMatrixChangingVisitor() {...},0,0,0,100,0,2,2,1,0,2,2
+SingularValueDecomposition.Solver,0,6,6,1,0,16,16,1,0,8,8
+AbstractRealMatrix.new RealMatrixPreservingVisitor() {...},0,0,0,100,0,6,6,1,0,4,4
+AbstractRealMatrix.new RealMatrixPreservingVisitor() {...},0,2,2,1,0,11,11,1,0,5,5
+EigenDecomposition,18,146,164,0.890243902,24,281,305,0.921311475,18,85,103
+BlockFieldMatrix,34,230,264,0.871212121,97,634,731,0.867305062,22,162,184
+OpenMapRealVector,7,117,124,0.943548387,23,269,292,0.921232877,11,99,110
+QRDecomposition.Solver,0,44,44,1,0,84,84,1,0,27,27
+OpenMapRealMatrix,4,20,24,0.833333333,18,82,100,0.82,4,24,28
+Array2DRowFieldMatrix,9,83,92,0.902173913,22,177,199,0.889447236,12,68,80
+HessenbergTransformer,3,51,54,0.944444444,1,76,77,0.987012987,4,29,33
+RealVector.2.new Iterator() {...},0,0,0,100,1,5,6,0.833333333,1,3,4
+RealVector.2.new Iterator() {...},0,0,0,100,1,5,6,0.833333333,1,3,4
+RealVectorFormat,0,22,22,1,7,58,65,0.892307692,5,21,26
+NonPositiveDefiniteMatrixException,0,0,0,100,3,7,10,0.7,3,1,4
+JacobiPreconditioner,1,7,8,0.875,1,23,24,0.958333333,1,9,10
+NonSquareMatrixException,0,0,0,100,0,2,2,1,0,1,1
+JacobiPreconditioner.new RealLinearOperator() {...},0,0,0,100,2,3,5,0.6,2,2,4
+DefaultRealMatrixPreservingVisitor,0,0,0,100,1,3,4,0.75,1,3,4
+NonPositiveDefiniteOperatorException,0,0,0,100,0,2,2,1,0,1,1
+AbstractFieldMatrix,39,203,242,0.838842975,54,375,429,0.874125874,34,149,183
+PreconditionedIterativeLinearSolver,0,6,6,1,4,21,25,0.84,2,9,11
+SchurTransformer,7,83,90,0.922222222,2,189,191,0.989528796,7,48,55
+AbstractRealMatrix,22,176,198,0.888888889,35,338,373,0.90616622,19,134,153
+MatrixDimensionMismatchException,0,0,0,100,0,8,8,1,0,5,5
+RealVector.2.UnmodifiableEntry,0,0,0,100,0,3,3,1,0,3,3
+RealMatrixFormat,3,41,44,0.931818182,11,95,106,0.896226415,10,30,40
+OpenMapRealVector.OpenMapSparseIterator,0,0,0,100,1,7,8,0.875,1,3,4
+NonSelfAdjointOperatorException,0,0,0,100,0,2,2,1,0,1,1
+RealVector,0,82,82,1,2,210,212,0.990566038,2,90,92
+SingularOperatorException,0,0,0,100,2,0,2,0,1,0,1
+IterativeLinearSolverEvent,0,0,0,100,2,2,4,0.5,2,1,3
+MatrixUtils,42,116,158,0.734177215,52,229,281,0.814946619,36,80,116
+QRDecomposition,0,42,42,1,0,77,77,1,0,30,30
+RealVector.new Iterator() {...},0,4,4,1,0,9,9,1,0,6,6
+ArrayFieldVector,18,96,114,0.842105263,73,289,362,0.798342541,20,110,130
+RealVector.new RealVector() {...},0,0,0,100,2,43,45,0.955555556,2,41,43
+FieldLUDecomposition,2,52,54,0.962962963,0,82,82,1,2,32,34
+ConjugateGradient,3,15,18,0.833333333,7,61,68,0.897058824,5,8,13
+TriDiagonalTransformer,0,46,46,1,1,88,89,0.988764045,1,30,31
+RealVector.SparseEntryIterator,2,12,14,0.857142857,3,19,22,0.863636364,3,9,12
+MatrixUtils.FractionMatrixConverter,0,0,0,100,0,7,7,1,0,4,4
+IterativeLinearSolver,0,6,6,1,10,17,27,0.62962963,3,6,9
+ArrayRealVector,4,140,144,0.972222222,12,357,369,0.967479675,6,133,139
+DefaultMeasurementModel,0,0,0,100,2,6,8,0.75,1,3,4
+KalmanFilter,8,22,30,0.733333333,18,71,89,0.797752809,11,16,27
+DefaultProcessModel,0,0,0,100,4,12,16,0.75,2,6,8
+StorelessCovariance,7,15,22,0.681818182,9,27,36,0.75,7,16,23
+PearsonsCorrelation,3,27,30,0.9,2,75,77,0.974025974,3,25,28
+SpearmansCorrelation,5,27,32,0.84375,3,59,62,0.951612903,6,22,28
+Covariance,4,12,16,0.75,5,48,53,0.905660377,5,17,22
+KendallsCorrelation.new Comparator() {...},0,2,2,1,0,3,3,1,0,3,3
+KendallsCorrelation,1,31,32,0.96875,3,85,88,0.965909091,2,22,24
+StorelessBivariateCovariance,2,2,4,0.5,4,26,30,0.866666667,3,5,8
+SimplexOptimizer,1,17,18,0.944444444,3,33,36,0.916666667,2,14,16
+BaseAbstractMultivariateSimpleBoundsOptimizer,0,0,0,100,1,4,5,0.8,1,3,4
+CMAESOptimizer,39,177,216,0.819444444,44,377,421,0.895486936,36,117,153
+CMAESOptimizer.Sigma,0,4,4,1,0,7,7,1,0,4,4
+NelderMeadSimplex,1,31,32,0.96875,3,82,85,0.964705882,2,23,25
+PowellOptimizer.LineSearch,0,0,0,100,0,10,10,1,0,2,2
+CMAESOptimizer.FitnessFunction,7,13,20,0.65,9,27,36,0.75,5,11,16
+CMAESOptimizer.PopulationSize,1,1,2,0.5,1,5,6,0.833333333,1,2,3
+PowellOptimizer,3,29,32,0.90625,3,85,88,0.965909091,3,20,23
+SimplexOptimizer.new Comparator() {...},0,2,2,1,0,4,4,1,0,3,3
+SimplexOptimizer.new MultivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+AbstractSimplex,13,41,54,0.759259259,14,75,89,0.842696629,14,27,41
+BOBYQAOptimizer.PathIsExploredException,0,0,0,100,2,0,2,0,1,0,1
+BOBYQAOptimizer,105,519,624,0.831730769,157,1027,1184,0.867398649,90,243,333
+PowellOptimizer.LineSearch.new UnivariateFunction() {...},0,2,2,1,0,6,6,1,0,3,3
+MultivariateFunctionMappingAdapter.UpperBoundMapper,0,0,0,100,0,5,5,1,0,3,3
+MultivariateFunctionMappingAdapter.LowerBoundMapper,0,0,0,100,0,5,5,1,0,3,3
+MultiDirectionalSimplex,0,8,8,1,2,42,44,0.954545455,1,13,14
+MultivariateFunctionPenaltyAdapter,3,17,20,0.85,3,26,29,0.896551724,3,9,12
+CMAESOptimizer.DoubleIndex,6,0,6,0,7,5,12,0.416666667,5,2,7
+BaseAbstractMultivariateOptimizer,5,33,38,0.868421053,3,62,65,0.953846154,6,29,35
+BaseAbstractMultivariateVectorOptimizer,11,11,22,0.5,18,42,60,0.7,13,17,30
+MultivariateFunctionMappingAdapter.LowerUpperBoundMapper,0,0,0,100,0,6,6,1,0,3,3
+MultivariateFunctionMappingAdapter.NoBoundsMapper,0,0,0,100,0,4,4,1,0,3,3
+MultivariateFunctionMappingAdapter,2,16,18,0.888888889,2,26,28,0.928571429,2,11,13
+LocationFinder,1,5,6,0.833333333,1,11,12,0.916666667,1,4,5
+HitHistogram,8,0,8,0,22,0,22,0,6,0,6
+SmoothedDataHistogram,8,0,8,0,25,0,25,0,6,0,6
+LocationFinder.Location,0,0,0,100,0,6,6,1,0,3,3
+UnifiedDistanceMatrix,28,0,28,0,61,0,61,0,18,0,18
+QuantizationError,8,0,8,0,22,0,22,0,6,0,6
+TopographicErrorHistogram,10,0,10,0,25,0,25,0,7,0,7
+Beta,5,83,88,0.943181818,7,128,135,0.948148148,8,47,55
+Gamma.new ContinuedFraction() {...},0,0,0,100,0,3,3,1,0,3,3
+Gamma,6,92,98,0.93877551,3,164,167,0.982035928,6,55,61
+Beta.new ContinuedFraction() {...},0,2,2,1,0,8,8,1,0,4,4
+Erf,0,28,28,1,0,84,84,1,0,19,19
+BesselJ,19,113,132,0.856060606,12,242,254,0.952755906,20,51,71
+BesselJ.BesselJResult,0,0,0,100,2,4,6,0.666666667,2,1,3
+MixtureMultivariateRealDistribution,3,19,22,0.863636364,2,43,45,0.955555556,3,14,17
+BetaDistribution,9,11,20,0.55,9,42,51,0.823529412,9,20,29
+GammaDistribution,4,28,32,0.875,9,80,89,0.898876404,6,30,36
+AbstractRealDistribution.new UnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+ZipfDistribution,0,24,24,1,1,57,58,0.982758621,1,27,28
+TriangularDistribution,4,36,40,0.9,3,58,61,0.950819672,7,27,34
+FDistribution,0,12,12,1,0,56,56,1,0,24,24
+LogisticDistribution,3,7,10,0.7,5,24,29,0.827586207,5,14,19
+EnumeratedDistribution,17,25,42,0.595238095,17,45,62,0.725806452,14,15,29
+ChiSquaredDistribution,0,0,0,100,0,22,22,1,0,16,16
+SaddlePointExpansion,1,15,16,0.9375,1,41,42,0.976190476,1,11,12
+UniformRealDistribution,0,14,14,1,5,31,36,0.861111111,3,20,23
+NakagamiDistribution,2,4,6,0.666666667,2,27,29,0.931034483,2,16,18
+ExponentialDistribution,0,24,24,1,4,61,65,0.938461538,3,28,31
+HypergeometricDistribution,1,27,28,0.964285714,2,74,76,0.973684211,2,31,33
+TDistribution,1,13,14,0.928571429,0,47,47,1,1,22,23
+AbstractMultivariateRealDistribution,1,3,4,0.75,2,12,14,0.857142857,1,5,6
+EnumeratedIntegerDistribution,0,30,30,1,0,66,66,1,0,28,28
+PascalDistribution,3,9,12,0.75,4,34,38,0.894736842,4,14,18
+GeometricDistribution,2,16,18,0.888888889,3,28,31,0.903225806,4,17,21
+BinomialDistribution,3,21,24,0.875,4,29,33,0.878787879,4,20,24
+CauchyDistribution,0,10,10,1,6,30,36,0.833333333,4,19,23
+ZipfDistribution.ZipfRejectionInversionSampler,3,11,14,0.785714286,3,27,30,0.9,3,11,14
+KolmogorovSmirnovDistribution,12,36,48,0.75,16,59,75,0.786666667,13,18,31
+MixtureMultivariateNormalDistribution,0,2,2,1,2,9,11,0.818181818,1,4,5
+GumbelDistribution,3,7,10,0.7,5,24,29,0.827586207,5,14,19
+UniformIntegerDistribution,0,16,16,1,1,29,30,0.966666667,1,17,18
+NormalDistribution,0,12,12,1,2,46,48,0.958333333,2,27,29
+PoissonDistribution,4,40,44,0.909090909,8,99,107,0.925233645,7,32,39
+ParetoDistribution,1,13,14,0.928571429,5,39,44,0.886363636,3,24,27
+LogNormalDistribution,2,16,18,0.888888889,2,58,60,0.966666667,3,28,31
+AbstractIntegerDistribution,9,35,44,0.795454545,9,56,65,0.861538462,9,23,32
+LevyDistribution,3,7,10,0.7,7,26,33,0.787878788,6,14,20
+LaplaceDistribution,3,11,14,0.785714286,5,24,29,0.827586207,5,16,21
+BetaDistribution.ChengBetaSampler,0,22,22,1,0,48,48,1,0,14,14
+AbstractRealDistribution,5,39,44,0.886363636,6,62,68,0.911764706,7,26,33
+MultivariateNormalDistribution,6,22,28,0.785714286,10,49,59,0.830508475,6,16,22
+WeibullDistribution,4,18,22,0.818181818,7,61,68,0.897058824,7,24,31
+EnumeratedRealDistribution,3,37,40,0.925,1,81,82,0.987804878,3,34,37
+ConstantRealDistribution,0,8,8,1,1,16,17,0.941176471,1,16,17
+EuclideanDoublePoint,1,7,8,0.875,2,16,18,0.888888889,2,9,11
+EuclideanIntegerPoint,1,7,8,0.875,2,16,18,0.888888889,2,9,11
+Cluster,0,0,0,100,0,8,8,1,0,4,4
+DBSCANClusterer.PointStatus,0,0,0,100,0,3,3,1,0,1,1
+KMeansPlusPlusClusterer.EmptyClusterStrategy,0,0,0,100,0,5,5,1,0,1,1
+KMeansPlusPlusClusterer,14,78,92,0.847826087,8,158,166,0.951807229,12,45,57
+DBSCANClusterer,0,28,28,1,0,53,53,1,0,21,21
+AlternativeHypothesis,0,0,0,100,0,4,4,1,0,1,1
+TestUtils,0,0,0,100,11,44,55,0.8,11,40,51
+WilcoxonSignedRankTest,2,34,36,0.944444444,5,55,60,0.916666667,3,24,27
+ChiSquareTest,8,56,64,0.875,4,101,105,0.961904762,8,35,43
+GTest,6,50,56,0.892857143,2,85,87,0.977011494,6,33,39
+OneWayAnova.AnovaStats,0,0,0,100,0,5,5,1,0,1,1
+MannWhitneyUTest,0,10,10,1,3,31,34,0.911764706,1,11,12
+OneWayAnova,2,18,20,0.9,2,55,57,0.964912281,2,15,17
+KolmogorovSmirnovTest,62,146,208,0.701923077,70,304,374,0.812834225,51,86,137
+TTest,1,23,24,0.958333333,5,98,103,0.951456311,2,41,43
+BinomialTest,7,19,26,0.730769231,7,30,37,0.810810811,7,10,17
+HarmonicCurveFitter.ParameterGuesser,2,28,30,0.933333333,1,95,96,0.989583333,2,18,20
+GaussianFitter.new Gaussian.Parametric() {...},0,0,0,100,1,10,11,0.909090909,0,3,3
+PolynomialCurveFitter,1,3,4,0.75,2,26,28,0.928571429,2,6,8
+AbstractCurveFitter.TheoreticalValuesFunction.new MultivariateVectorFunction() {...},0,2,2,1,0,6,6,1,0,3,3
+AbstractCurveFitter.TheoreticalValuesFunction.new MultivariateMatrixFunction() {...},0,2,2,1,0,6,6,1,0,3,3
+WeightedObservedPoint,0,0,0,100,0,8,8,1,0,4,4
+GaussianFitter.ParameterGuesser.new Comparator() {...},15,5,20,0.25,15,8,23,0.347826087,10,2,12
+HarmonicFitter.ParameterGuesser,2,28,30,0.933333333,1,93,94,0.989361702,2,18,20
+SimpleCurveFitter,0,2,2,1,3,24,27,0.888888889,2,4,6
+GaussianCurveFitter.ParameterGuesser.new Comparator() {...},15,5,20,0.25,15,8,23,0.347826087,10,2,12
+GaussianFitter,0,0,0,100,0,6,6,1,0,3,3
+AbstractCurveFitter.TheoreticalValuesFunction,0,2,2,1,0,11,11,1,0,4,4
+AbstractCurveFitter,0,0,0,100,0,3,3,1,0,3,3
+CurveFitter.TheoreticalValuesFunction,0,0,0,100,0,5,5,1,0,3,3
+GaussianCurveFitter,0,4,4,1,0,28,28,1,0,8,8
+PolynomialFitter,0,0,0,100,1,3,4,0.75,1,2,3
+HarmonicFitter,0,0,0,100,0,4,4,1,0,3,3
+CurveFitter.TheoreticalValuesFunction.new MultivariateMatrixFunction() {...},0,2,2,1,0,7,7,1,0,3,3
+CurveFitter.TheoreticalValuesFunction.new MultivariateVectorFunction() {...},0,2,2,1,0,7,7,1,0,3,3
+GaussianCurveFitter.new Gaussian.Parametric() {...},0,0,0,100,0,11,11,1,0,3,3
+GaussianFitter.ParameterGuesser,6,28,34,0.823529412,5,55,60,0.916666667,6,19,25
+WeightedObservedPoints,0,0,0,100,0,11,11,1,0,6,6
+HarmonicCurveFitter,0,4,4,1,1,27,28,0.964285714,1,7,8
+GaussianCurveFitter.ParameterGuesser,6,28,34,0.823529412,5,55,60,0.916666667,6,19,25
+CurveFitter,0,2,2,1,2,26,28,0.928571429,1,8,9
+Target,0,0,0,100,0,4,4,1,0,2,2
+PointValuePair,2,4,6,0.666666667,0,10,10,1,2,6,8
+MultivariateMultiStartOptimizer,0,0,0,100,0,2,2,1,0,1,1
+PointValuePair.DataTransferObject,0,0,0,100,0,5,5,1,0,2,2
+SimpleValueChecker,1,9,10,0.9,3,16,19,0.842105263,2,7,9
+SimplePointChecker,2,10,12,0.833333333,3,21,24,0.875,3,7,10
+LeastSquaresConverter,3,15,18,0.833333333,3,35,38,0.921052632,3,10,13
+BaseMultivariateVectorMultiStartOptimizer,3,11,14,0.785714286,5,30,35,0.857142857,4,10,14
+SimpleVectorValueChecker,0,12,12,1,3,21,24,0.875,1,9,10
+DifferentiableMultivariateMultiStartOptimizer,0,0,0,100,2,0,2,0,1,0,1
+BaseMultivariateMultiStartOptimizer,5,9,14,0.642857143,8,25,33,0.757575758,6,8,14
+AbstractConvergenceChecker,0,0,0,100,4,8,12,0.666666667,1,4,5
+Weight,2,0,2,0,6,4,10,0.4,2,2,4
+PointVectorValuePair.DataTransferObject,0,0,0,100,0,5,5,1,0,2,2
+MultivariateDifferentiableVectorMultiStartOptimizer,0,0,0,100,0,2,2,1,0,1,1
+BaseMultivariateVectorMultiStartOptimizer.new Comparator() {...},2,6,8,0.75,1,11,12,0.916666667,2,5,7
+BaseMultivariateMultiStartOptimizer.new Comparator() {...},5,3,8,0.375,2,7,9,0.777777778,4,2,6
+MultivariateDifferentiableMultiStartOptimizer,0,0,0,100,0,2,2,1,0,1,1
+InitialGuess,0,0,0,100,0,4,4,1,0,2,2
+SimpleBounds,0,0,0,100,0,6,6,1,0,3,3
+GoalType,0,0,0,100,0,3,3,1,0,1,1
+DifferentiableMultivariateVectorMultiStartOptimizer,0,0,0,100,2,0,2,0,1,0,1
+PointVectorValuePair,3,9,12,0.75,0,13,13,1,3,10,13
+NaturalRanking,2,54,56,0.964285714,13,118,131,0.900763359,5,44,49
+NaNStrategy,0,0,0,100,0,6,6,1,0,1,1
+TiesStrategy,0,0,0,100,0,6,6,1,0,1,1
+NaturalRanking.IntDoublePair,0,0,0,100,0,7,7,1,0,4,4
+SumOfSquares,1,3,4,0.75,3,27,30,0.9,2,9,11
+Product,2,6,8,0.75,3,34,37,0.918918919,3,12,15
+SumOfLogs,1,3,4,0.75,3,27,30,0.9,2,9,11
+Sum,2,6,8,0.75,4,33,37,0.891891892,4,11,15
+NeuronSquareMesh2D,10,139,149,0.932885906,21,152,173,0.878612717,11,80,91
+NeuronSquareMesh2D.HorizontalDirection,0,0,0,100,0,4,4,1,0,1,1
+NeuronSquareMesh2D.SerializationProxy,0,0,0,100,0,7,7,1,0,2,2
+NeuronSquareMesh2D.VerticalDirection,0,0,0,100,0,4,4,1,0,1,1
+PolynomialFunctionNewtonForm,3,15,18,0.833333333,7,44,51,0.862745098,5,14,19
+PolynomialFunctionLagrangeForm,3,31,34,0.911764706,15,73,88,0.829545455,5,22,27
+PolynomialsUtils.JacobiKey,4,4,8,0.5,1,8,9,0.888888889,4,3,7
+PolynomialSplineFunction,11,19,30,0.633333333,10,37,47,0.787234043,8,16,24
+PolynomialsUtils,0,20,20,1,0,72,72,1,0,19,19
+PolynomialFunction,15,47,62,0.758064516,25,84,109,0.770642202,14,34,48
+PolynomialsUtils.new PolynomialsUtils.RecurrenceCoefficientsGenerator() {...},0,0,0,100,0,3,3,1,0,2,2
+PolynomialsUtils.new PolynomialsUtils.RecurrenceCoefficientsGenerator() {...},0,0,0,100,0,3,3,1,0,2,2
+PolynomialsUtils.new PolynomialsUtils.RecurrenceCoefficientsGenerator() {...},0,0,0,100,0,2,2,1,0,2,2
+PolynomialsUtils.new PolynomialsUtils.RecurrenceCoefficientsGenerator() {...},0,0,0,100,0,8,8,1,0,2,2
+PolynomialsUtils.new PolynomialsUtils.RecurrenceCoefficientsGenerator() {...},0,0,0,100,0,3,3,1,0,2,2
+PolynomialFunction.Parametric,0,2,2,1,0,8,8,1,0,4,4
+AklToussaintHeuristic,3,41,44,0.931818182,2,44,46,0.956521739,3,22,25
+MonotoneChain,4,28,32,0.875,2,50,52,0.961538462,5,16,21
+ConvexHull2D,2,28,30,0.933333333,1,53,54,0.981481481,2,19,21
+MonotoneChain.new Comparator() {...},0,2,2,1,0,6,6,1,0,3,3
+AbstractConvexHullGenerator2D,0,2,2,1,0,16,16,1,0,6,6
+BigFractionFormat,2,19,21,0.904761905,8,54,62,0.870967742,7,18,25
+FractionField,0,0,0,100,0,5,5,1,0,5,5
+FractionField.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+FractionConversionException,0,0,0,100,0,4,4,1,0,2,2
+BigFractionField,0,0,0,100,0,5,5,1,0,5,5
+FractionFormat,1,12,13,0.923076923,8,43,51,0.843137255,7,14,21
+ProperBigFractionFormat,4,23,27,0.851851852,9,58,67,0.865671642,5,16,21
+BigFraction,26,126,152,0.828947368,26,261,287,0.909407666,27,104,131
+AbstractFormat,3,9,12,0.75,5,33,38,0.868421053,5,14,19
+ProperFractionFormat,4,15,19,0.789473684,9,54,63,0.857142857,5,12,17
+BigFractionField.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+Fraction,8,90,98,0.918367347,5,179,184,0.972826087,8,73,81
+LearningFactorFunctionFactory,0,8,8,1,0,6,6,1,0,6,6
+KohonenUpdateAction,1,9,10,0.9,1,38,39,0.974358974,2,10,12
+LearningFactorFunctionFactory.new LearningFactorFunction() {...},0,0,0,100,0,3,3,1,0,2,2
+LearningFactorFunctionFactory.new LearningFactorFunction() {...},0,0,0,100,0,3,3,1,0,2,2
+NeighbourhoodSizeFunctionFactory.new NeighbourhoodSizeFunction() {...},0,0,0,100,0,3,3,1,0,2,2
+NeighbourhoodSizeFunctionFactory.new NeighbourhoodSizeFunction() {...},0,0,0,100,0,3,3,1,0,2,2
+NeighbourhoodSizeFunctionFactory,0,0,0,100,0,2,2,1,0,2,2
+KohonenTrainingTask,0,2,2,1,0,8,8,1,0,3,3
+OrderedCrossover,0,14,14,1,0,37,37,1,0,10,10
+ChromosomePair,0,0,0,100,1,6,7,0.857142857,1,3,4
+FixedElapsedTime,1,5,6,0.833333333,3,8,11,0.727272727,2,4,6
+InvalidRepresentationException,0,0,0,100,0,2,2,1,0,1,1
+RandomKey,3,29,32,0.90625,4,63,67,0.940298507,4,24,28
+TournamentSelection,1,3,4,0.75,5,13,18,0.722222222,3,4,7
+BinaryMutation,1,3,4,0.75,1,8,9,0.888888889,1,3,4
+BinaryChromosome,1,15,16,0.9375,1,22,23,0.956521739,1,12,13
+Chromosome,1,7,8,0.875,1,15,16,0.9375,2,8,10
+RandomKeyMutation,1,1,2,0.5,2,8,10,0.8,1,2,3
+ElitisticListPopulation,0,6,6,1,0,20,20,1,0,8,8
+OnePointCrossover,3,7,10,0.7,2,18,20,0.9,3,5,8
+TournamentSelection.new ListPopulation() {...},0,0,0,100,1,1,2,0.5,1,1,2
+CycleCrossover,1,21,22,0.954545455,2,42,44,0.954545455,2,14,16
+ListPopulation,5,17,22,0.772727273,9,41,50,0.82,4,20,24
+NPointCrossover,1,15,16,0.9375,2,35,37,0.945945946,2,10,12
+FixedGenerationCount,1,3,4,0.75,2,9,11,0.818181818,2,3,5
+AbstractListChromosome,1,1,2,0.5,0,12,12,1,1,6,7
+GeneticAlgorithm,6,12,18,0.666666667,6,39,45,0.866666667,7,14,21
+UniformCrossover,0,14,14,1,1,24,25,0.96,1,10,11
+Frequency,9,47,56,0.839285714,11,143,154,0.928571429,8,57,65
+Frequency.NaturalComparator,0,0,0,100,0,1,1,1,0,1,1
+StatUtils,7,23,30,0.766666667,10,80,90,0.888888889,7,42,49
+Neuron.SerializationProxy,0,0,0,100,0,5,5,1,0,2,2
+Neuron,2,10,12,0.833333333,3,33,36,0.916666667,3,14,17
+MapUtils.PairNeuronDouble,0,0,0,100,0,6,6,1,0,3,3
+FeatureInitializerFactory.new FeatureInitializer() {...},0,0,0,100,0,2,2,1,0,2,2
+FeatureInitializerFactory.new FeatureInitializer() {...},0,0,0,100,0,5,5,1,0,2,2
+Network,9,39,48,0.8125,10,106,116,0.913793103,11,33,44
+MapUtils.PairNeuronDouble.new Comparator() {...},0,0,0,100,0,2,2,1,0,2,2
+Network.SerializationProxy,0,0,0,100,0,7,7,1,0,2,2
+SquareNeighbourhood,0,0,0,100,0,3,3,1,0,1,1
+MapUtils,32,8,40,0.2,71,20,91,0.21978022,21,6,27
+FeatureInitializerFactory,0,0,0,100,2,4,6,0.666666667,1,3,4
+Network.NeuronIdentifierComparator,2,2,4,0.5,0,4,4,1,2,2,4
+NormalApproximationInterval,0,0,0,100,0,8,8,1,0,2,2
+IntervalUtils,0,10,10,1,0,19,19,1,0,11,11
+ClopperPearsonInterval,2,2,4,0.5,0,14,14,1,2,2,4
+WilsonScoreInterval,0,0,0,100,0,15,15,1,0,2,2
+ConfidenceInterval,3,3,6,0.5,3,12,15,0.8,4,5,9
+AgrestiCoullInterval,0,0,0,100,0,11,11,1,0,2,2
+PolyhedronsSet.TranslationTransform,0,2,2,1,0,15,15,1,0,5,5
+SphericalCoordinates.DataTransferObject,0,0,0,100,0,6,6,1,0,2,2
+RotationOrder,0,0,0,100,0,22,22,1,0,6,6
+FieldRotation,3,191,194,0.984536082,0,548,548,1,3,143,146
+RotationConvention,0,0,0,100,0,3,3,1,0,1,1
+OutlineExtractor,14,0,14,0,34,0,34,0,10,0,10
+Vector3DFormat,1,3,4,0.75,4,19,23,0.826086957,2,9,11
+PolyhedronsSet.FacetsContributionVisitor,2,6,8,0.75,2,24,26,0.923076923,2,7,9
+Line,4,12,16,0.75,7,46,53,0.867924528,8,21,29
+SubLine,0,14,14,1,2,28,30,0.933333333,1,13,14
+Rotation,3,187,190,0.984210526,0,486,486,1,3,125,128
+Segment,0,0,0,100,0,8,8,1,0,4,4
+PolyhedronsSet.RotationTransform,0,2,2,1,0,25,25,1,0,5,5
+SphereGenerator,0,8,8,1,0,62,62,1,0,7,7
+PolyhedronsSet,16,78,94,0.829787234,17,130,147,0.884353741,18,49,67
+SubPlane,1,11,12,0.916666667,0,32,32,1,1,8,9
+Vector3D,0,46,46,1,0,142,142,1,0,71,71
+Euclidean3D,0,0,0,100,0,4,4,1,0,4,4
+NotARotationMatrixException,0,0,0,100,0,2,2,1,0,1,1
+Plane,3,19,22,0.863636364,26,93,119,0.781512605,11,37,48
+CardanEulerSingularityException,0,2,2,1,0,2,2,1,0,2,2
+OutlineExtractor.BoundaryProjector,34,0,34,0,63,0,63,0,23,0,23
+SphericalCoordinates,2,2,4,0.5,0,117,117,1,2,11,13
+FieldVector3D,0,72,72,1,0,259,259,1,0,118,118
+Euclidean3D.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+SmallPrimes,4,30,34,0.882352941,4,53,57,0.929824561,4,18,22
+Primes,0,26,26,1,0,29,29,1,0,16,16
+PollardRho,22,0,22,0,60,0,60,0,14,0,14
+AVLTree.Node,3,107,110,0.972727273,0,196,196,1,3,71,74
+AVLTree.Skew,0,0,0,100,0,4,4,1,0,1,1
+AVLTree,9,27,36,0.75,4,38,42,0.904761905,9,18,27
+OrderedTuple,94,0,94,0,123,0,123,0,59,0,59
+OutOfRangeException,0,0,0,100,0,8,8,1,0,4,4
+DimensionMismatchException,0,0,0,100,0,6,6,1,0,3,3
+MaxCountExceededException,0,0,0,100,0,7,7,1,0,3,3
+NoBracketingException,0,0,0,100,4,8,12,0.666666667,4,2,6
+MathUnsupportedOperationException,0,0,0,100,3,6,9,0.666666667,3,2,5
+MathArithmeticException,0,0,0,100,1,10,11,0.909090909,1,4,5
+NotStrictlyPositiveException,0,0,0,100,0,4,4,1,0,2,2
+MathParseException,0,0,0,100,4,4,8,0.5,1,1,2
+MathRuntimeException,0,0,0,100,7,0,7,0,4,0,4
+NullArgumentException,0,0,0,100,0,4,4,1,0,2,2
+NotPositiveException,0,0,0,100,0,4,4,1,0,2,2
+TooManyEvaluationsException,0,0,0,100,0,3,3,1,0,1,1
+ZeroException,0,0,0,100,0,4,4,1,0,2,2
+NumberIsTooLargeException,0,2,2,1,0,8,8,1,0,5,5
+MultiDimensionMismatchException,0,0,0,100,4,6,10,0.6,3,3,6
+MathIllegalArgumentException,0,0,0,100,1,6,7,0.857142857,1,3,4
+NonMonotonicSequenceException,0,6,6,1,0,13,13,1,0,9,9
+NoDataException,0,0,0,100,0,4,4,1,0,2,2
+TooManyIterationsException,0,0,0,100,0,3,3,1,0,1,1
+ConvergenceException,0,0,0,100,0,5,5,1,0,2,2
+NotFiniteNumberException,0,0,0,100,0,4,4,1,0,2,2
+MathInternalError,0,0,0,100,7,0,7,0,3,0,3
+MathIllegalStateException,0,0,0,100,5,8,13,0.615384615,2,4,6
+NumberIsTooSmallException,0,2,2,1,0,8,8,1,0,5,5
+NotANumberException,0,0,0,100,0,2,2,1,0,1,1
+InsufficientDataException,0,0,0,100,0,4,4,1,0,2,2
+MathIllegalNumberException,0,0,0,100,0,5,5,1,0,3,3
+LevenbergMarquardtOptimizer,19,187,206,0.90776699,14,363,377,0.962864721,18,97,115
+AbstractLeastSquaresOptimizer,2,12,14,0.857142857,2,41,43,0.953488372,2,18,20
+GaussNewtonOptimizer,3,23,26,0.884615385,2,59,61,0.967213115,3,14,17
+MultivariateNormalMixtureExpectationMaximization.DataRow,4,2,6,0.333333333,6,9,15,0.6,4,4,8
+MultivariateNormalMixtureExpectationMaximization,3,51,54,0.944444444,3,108,111,0.972972973,3,30,33
+SubCircle,0,8,8,1,0,14,14,1,0,7,7
+Edge,1,11,12,0.916666667,4,47,51,0.921568627,1,14,15
+Sphere2D,0,0,0,100,1,3,4,0.75,1,3,4
+S2Point,4,16,20,0.8,1,42,43,0.976744186,4,21,25
+Circle,0,2,2,1,1,43,44,0.977272727,1,24,25
+Sphere2D.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+EdgesBuilder,1,23,24,0.958333333,1,52,53,0.981132075,1,18,19
+PropertiesComputer,3,13,16,0.8125,3,41,44,0.931818182,3,14,17
+Vertex,1,5,6,0.833333333,1,23,24,0.958333333,1,10,11
+SphericalPolygonsSet,13,69,82,0.841463415,7,146,153,0.954248366,11,45,56
+Circle.CircleTransform,0,0,0,100,0,10,10,1,0,4,4
+ComplexField.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+Complex,14,168,182,0.923076923,10,223,233,0.957081545,16,124,140
+ComplexField,0,0,0,100,1,4,5,0.8,1,4,5
+Quaternion,6,26,32,0.8125,6,97,103,0.941747573,6,40,46
+ComplexUtils,0,4,4,1,0,8,8,1,0,4,4
+ComplexFormat,17,21,38,0.552631579,35,76,111,0.684684685,18,22,40
+RootsOfUnity,5,19,24,0.791666667,8,40,48,0.833333333,5,13,18
+SobolSequenceGenerator,6,36,42,0.857142857,13,85,98,0.867346939,6,23,29
+UncorrelatedRandomVectorGenerator,1,3,4,0.75,1,16,17,0.941176471,1,4,5
+RandomGeneratorFactory.new RandomGenerator() {...},0,2,2,1,2,16,18,0.888888889,1,12,13
+BitsStreamGenerator,13,15,28,0.535714286,13,51,64,0.796875,9,18,27
+ValueServer,2,23,25,0.92,7,78,85,0.917647059,3,38,41
+UniformRandomGenerator,0,0,0,100,0,5,5,1,0,3,3
+ISAACRandom,1,19,20,0.95,5,124,129,0.96124031,2,21,23
+RandomDataGenerator,17,53,70,0.757142857,26,137,163,0.840490798,14,56,70
+AbstractRandomGenerator,5,17,22,0.772727273,7,40,47,0.85106383,5,17,22
+SynchronizedRandomGenerator,0,0,0,100,6,12,18,0.666666667,3,9,12
+StableRandomGenerator,5,19,24,0.791666667,9,31,40,0.775,4,10,14
+Well19937c,0,0,0,100,0,26,26,1,0,5,5
+Well19937a,0,0,0,100,2,22,24,0.916666667,1,4,5
+GaussianRandomGenerator,0,0,0,100,0,4,4,1,0,2,2
+UnitSphereRandomVectorGenerator,0,4,4,1,0,16,16,1,0,5,5
+Well44497a,0,2,2,1,4,22,26,0.846153846,2,4,6
+Well44497b,0,2,2,1,2,26,28,0.928571429,1,5,6
+MersenneTwister,1,27,28,0.964285714,2,74,76,0.973684211,1,22,23
+CorrelatedRandomVectorGenerator,3,7,10,0.7,12,19,31,0.612903226,4,7,11
+EmpiricalDistribution.DataAdapter,0,0,0,100,0,1,1,1,0,1,1
+RandomAdaptor,4,2,6,0.333333333,7,16,23,0.695652174,5,12,17
+HaltonSequenceGenerator,0,16,16,1,0,33,33,1,0,15,15
+Well1024a,0,0,0,100,2,20,22,0.909090909,1,4,5
+RandomDataImpl,0,0,0,100,38,5,43,0.11627907,32,2,34
+EmpiricalDistribution.StreamDataAdapter,0,4,4,1,0,23,23,1,0,5,5
+AbstractWell,0,8,8,1,0,39,39,1,0,11,11
+RandomGeneratorFactory,2,0,2,0,5,1,6,0.166666667,2,1,3
+Well512a,0,0,0,100,4,17,21,0.80952381,2,3,5
+EmpiricalDistribution.ArrayDataAdapter,0,4,4,1,0,14,14,1,0,5,5
+JDKRandomGenerator,0,0,0,100,2,7,9,0.777777778,1,3,4
+EmpiricalDistribution,6,46,52,0.884615385,19,146,165,0.884848485,13,51,64
+FunctionUtils.new UnivariateDifferentiableFunction() {...},2,3,5,0.6,3,12,15,0.8,3,3,6
+FunctionUtils.new DifferentiableUnivariateFunction() {...},0,0,0,100,0,3,3,1,0,3,3
+FunctionUtils.new MultivariateDifferentiableFunction() {...},3,11,14,0.785714286,4,22,26,0.846153846,4,6,10
+FunctionUtils.new DifferentiableMultivariateFunction() {...},0,0,0,100,1,3,4,0.75,1,3,4
+FunctionUtils.new MultivariateDifferentiableVectorFunction() {...},3,13,16,0.8125,3,26,29,0.896551724,3,8,11
+FunctionUtils.new DifferentiableMultivariateVectorFunction() {...},0,0,0,100,0,3,3,1,0,3,3
+FunctionUtils.new MultivariateFunction() {...},0,2,2,1,0,5,5,1,0,3,3
+FunctionUtils.new UnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+FunctionUtils.new UnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+FunctionUtils.new UnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+FunctionUtils.18.new MultivariateMatrixFunction() {...},0,6,6,1,0,14,14,1,0,5,5
+FunctionUtils.16.new MultivariateFunction() {...},4,0,4,0,9,0,9,0,4,0,4
+FunctionUtils.16.new MultivariateVectorFunction() {...},0,4,4,1,0,13,13,1,0,4,4
+FunctionUtils.6.new UnivariateFunction() {...},2,0,2,0,5,0,5,0,3,0,3
+FunctionUtils.new DifferentiableUnivariateFunction() {...},2,0,2,0,6,0,6,0,4,0,4
+FunctionUtils.3.new UnivariateFunction() {...},2,0,2,0,7,0,7,0,3,0,3
+FunctionUtils.new UnivariateFunction() {...},0,2,2,1,0,5,5,1,0,3,3
+FunctionUtils.new UnivariateFunction() {...},0,2,2,1,0,5,5,1,0,3,3
+FunctionUtils.new UnivariateDifferentiableFunction() {...},2,2,4,0.5,4,5,9,0.555555556,2,3,5
+FunctionUtils.new UnivariateFunction() {...},0,2,2,1,0,5,5,1,0,3,3
+FunctionUtils.new UnivariateDifferentiableFunction() {...},2,2,4,0.5,4,5,9,0.555555556,2,3,5
+FunctionUtils.new UnivariateDifferentiableFunction() {...},2,2,4,0.5,4,5,9,0.555555556,2,3,5
+FunctionUtils.new DifferentiableUnivariateFunction() {...},2,0,2,0,6,0,6,0,4,0,4
+FunctionUtils.new DifferentiableUnivariateFunction() {...},2,0,2,0,6,0,6,0,4,0,4
+FunctionUtils.9.new UnivariateFunction() {...},6,0,6,0,9,0,9,0,5,0,5
+FunctionUtils,0,6,6,1,3,27,30,0.9,3,21,24
+FunctionUtils.14.new UnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+FiniteDifferencesDifferentiator.new UnivariateDifferentiableFunction() {...},0,4,4,1,0,9,9,1,0,5,5
+FiniteDifferencesDifferentiator.new UnivariateDifferentiableVectorFunction() {...},0,10,10,1,0,16,16,1,0,8,8
+DerivativeStructure,2,68,70,0.971428571,0,304,304,1,2,116,118
+FiniteDifferencesDifferentiator.new UnivariateDifferentiableMatrixFunction() {...},0,14,14,1,0,18,18,1,0,10,10
+FiniteDifferencesDifferentiator,0,14,14,1,0,42,42,1,0,15,15
+DSCompiler,2,294,296,0.993243243,2,570,572,0.996503497,2,195,197
+SparseGradient.new Field() {...},0,0,0,100,0,4,4,1,0,4,4
+DerivativeStructure.new Field() {...},0,0,0,100,0,4,4,1,0,4,4
+SparseGradient,6,106,112,0.946428571,4,247,251,0.984063745,6,125,131
+GradientFunction,0,4,4,1,0,14,14,1,0,4,4
+DerivativeStructure.DataTransferObject,0,0,0,100,0,6,6,1,0,2,2
+JacobianFunction,0,6,6,1,0,15,15,1,0,5,5
+SubLimitAngle,0,2,2,1,0,7,7,1,0,6,6
+S1Point,2,8,10,0.8,1,24,25,0.96,2,14,16
+LimitAngle,1,5,6,0.833333333,1,15,16,0.9375,2,12,14
+Sphere1D.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+Sphere1D,0,0,0,100,0,4,4,1,0,4,4
+ArcsSet.InconsistentStateAt2PiWrapping,0,0,0,100,0,2,2,1,0,1,1
+ArcsSet.SubArcsIterator,2,24,26,0.923076923,1,38,39,0.974358974,2,16,18
+ArcsSet.Split,0,6,6,1,0,13,13,1,0,7,7
+ArcsSet,15,111,126,0.880952381,18,215,233,0.922746781,13,80,93
+Arc,0,16,16,1,1,23,24,0.958333333,1,14,15
+Sphere1D.NoSubSpaceException,0,0,0,100,0,2,2,1,0,1,1
+MultivariateOptimizer,0,6,6,1,0,15,15,1,0,8,8
+LineSearch.new UnivariateFunction() {...},0,2,2,1,0,6,6,1,0,3,3
+GoalType,0,0,0,100,0,3,3,1,0,1,1
+MultiStartMultivariateOptimizer.new Comparator() {...},5,3,8,0.375,2,7,9,0.777777778,4,2,6
+ObjectiveFunctionGradient,0,0,0,100,0,4,4,1,0,2,2
+MultivariateFunctionMappingAdapter,2,16,18,0.888888889,2,26,28,0.928571429,2,11,13
+LineSearch,0,0,0,100,0,14,14,1,0,2,2
+MultivariateFunctionPenaltyAdapter,3,17,20,0.85,3,26,29,0.896551724,3,9,12
+MultivariateFunctionMappingAdapter.LowerUpperBoundMapper,0,0,0,100,0,6,6,1,0,3,3
+MultivariateFunctionMappingAdapter.LowerBoundMapper,0,0,0,100,0,5,5,1,0,3,3
+MultivariateFunctionMappingAdapter.NoBoundsMapper,0,0,0,100,0,2,2,1,0,2,2
+GradientMultivariateOptimizer,1,3,4,0.75,0,10,10,1,1,5,6
+MultivariateFunctionMappingAdapter.UpperBoundMapper,0,0,0,100,0,5,5,1,0,3,3
+MultiStartMultivariateOptimizer,0,0,0,100,0,11,11,1,0,5,5
+LeastSquaresConverter,3,15,18,0.833333333,3,35,38,0.921052632,3,10,13
+ObjectiveFunction,0,0,0,100,0,4,4,1,0,2,2
+SubHyperplane.SplitSubHyperplane,1,11,12,0.916666667,0,13,13,1,1,9,10
+Side,0,0,0,100,0,5,5,1,0,1,1
+RegionFactory.IntersectionMerger,0,2,2,1,0,6,6,1,0,3,3
+BoundaryProjection,0,0,0,100,0,8,8,1,0,4,4
+BSPTree.new BSPTree.VanishingCutHandler() {...},0,0,0,100,2,0,2,0,2,0,2
+BSPTree,14,85,99,0.858585859,22,208,230,0.904347826,14,65,79
+BoundarySizeVisitor,0,4,4,1,0,13,13,1,0,7,7
+AbstractRegion,18,72,90,0.8,12,138,150,0.92,18,57,75
+Characterization,2,18,20,0.9,1,42,43,0.976744186,2,19,21
+BoundaryProjector,4,26,30,0.866666667,0,51,51,1,4,20,24
+BoundaryBuilder,0,14,14,1,0,27,27,1,0,11,11
+InsideFinder,50,0,50,0,42,0,42,0,30,0,30
+AbstractRegion.new Comparator() {...},0,4,4,1,0,4,4,1,0,4,4
+AbstractRegion.new BSPTreeVisitor() {...},1,3,4,0.75,0,7,7,1,1,5,6
+RegionFactory.UnionMerger,0,2,2,1,0,6,6,1,0,3,3
+RegionFactory.XorMerger,0,2,2,1,0,6,6,1,0,3,3
+NodesSet,0,6,6,1,0,14,14,1,0,7,7
+AbstractSubHyperplane,2,14,16,0.875,1,40,41,0.975609756,3,15,18
+RegionFactory,3,32,35,0.914285714,1,66,67,0.985074627,3,24,27
+BoundaryAttribute,0,0,0,100,2,8,10,0.8,1,4,5
+RegionFactory.VanishingToLeaf,2,0,2,0,3,3,6,0.5,2,1,3
+RegionFactory.DifferenceMerger,3,7,10,0.7,0,17,17,1,2,6,8
+Region.Location,0,0,0,100,0,4,4,1,0,1,1
+RegionFactory.NodesCleaner,0,0,0,100,0,5,5,1,0,4,4
+BSPTreeVisitor.Order,0,0,0,100,0,7,7,1,0,1,1
+DummyStepHandler,0,0,0,100,4,0,4,0,4,0,4
+AbstractStepInterpolator,9,25,34,0.735294118,15,171,186,0.919354839,10,33,43
+StepNormalizer,1,33,34,0.970588235,5,59,64,0.921875,3,23,26
+StepNormalizerBounds,0,0,0,100,0,11,11,1,0,4,4
+NordsieckStepInterpolator,11,27,38,0.710526316,7,80,87,0.91954023,12,17,29
+DummyStepHandler.LazyHolder,0,0,0,100,1,0,1,0,1,0,1
+StepNormalizerMode,0,0,0,100,0,3,3,1,0,1,1
+AbstractFieldStepInterpolator,0,0,0,100,0,18,18,1,0,8,8
+FieldStepNormalizer,32,0,32,0,53,0,53,0,24,0,24
+Line.LineTransform,1,1,2,0.5,1,30,31,0.967741935,1,4,5
+SubLine,0,28,28,1,2,54,56,0.964285714,1,22,23
+Line,5,15,20,0.75,30,81,111,0.72972973,11,35,46
+Vector2DFormat,1,3,4,0.75,5,18,23,0.782608696,3,8,11
+Euclidean2D.LazyHolder,0,0,0,100,0,1,1,1,0,1,1
+DiskGenerator,0,6,6,1,0,33,33,1,0,6,6
+Euclidean2D,0,0,0,100,0,4,4,1,0,4,4
+PolygonsSet.Edge,0,0,0,100,0,21,21,1,0,7,7
+PolygonsSet.ConnectableSegment,0,0,0,100,0,20,20,1,0,10,10
+PolygonsSet.SegmentsBuilder,3,15,18,0.833333333,0,38,38,1,3,13,16
+PolygonsSet.Vertex,0,6,6,1,0,24,24,1,0,11,11
+PolygonsSet,38,135,173,0.780346821,49,217,266,0.815789474,33,75,108
+Vector2D,18,16,34,0.470588235,52,54,106,0.509433962,34,23,57
+Segment,2,2,4,0.5,3,16,19,0.842105263,2,5,7
+NestedLoops,28,0,28,0,62,0,62,0,20,0,20
+MultivariateSummaryStatistics,8,36,44,0.818181818,0,145,145,1,8,50,58
+AggregateSummaryStatistics.AggregatingSummaryStatistics,8,0,8,0,8,8,16,0.5,6,2,8
+SynchronizedDescriptiveStatistics,0,0,0,100,4,28,32,0.875,2,14,16
+DescriptiveStatistics,3,21,24,0.875,18,145,163,0.889570552,4,59,63
+AbstractStorelessUnivariateStatistic,2,16,18,0.888888889,1,24,25,0.96,2,14,16
+AbstractUnivariateStatistic,10,2,12,0.166666667,13,11,24,0.458333333,7,10,17
+SynchronizedSummaryStatistics,0,0,0,100,29,30,59,0.508474576,13,24,37
+SummaryStatistics,19,41,60,0.683333333,28,169,197,0.85786802,28,42,70
+AggregateSummaryStatistics,10,14,24,0.583333333,15,55,70,0.785714286,15,14,29
+StatisticalSummaryValues,5,11,16,0.6875,0,45,45,1,5,14,19
+SynchronizedMultivariateSummaryStatistics,0,0,0,100,0,41,41,1,0,31,31
+SimplexOptimizer,3,19,22,0.863636364,1,36,37,0.972972973,3,14,17
+NelderMeadSimplex,1,31,32,0.96875,3,82,85,0.964705882,2,23,25
+CMAESOptimizer.DoubleIndex,6,0,6,0,7,5,12,0.416666667,5,2,7
+BOBYQAOptimizer.PathIsExploredException,0,0,0,100,2,0,2,0,1,0,1
+MultiDirectionalSimplex,0,8,8,1,2,42,44,0.954545455,1,13,14
+CMAESOptimizer.ValuePenaltyPair,0,0,0,100,0,4,4,1,0,1,1
+PowellOptimizer,4,32,36,0.888888889,3,89,92,0.967391304,4,22,26
+CMAESOptimizer.PopulationSize,1,1,2,0.5,1,5,6,0.833333333,1,2,3
+BOBYQAOptimizer,105,519,624,0.831730769,157,1027,1184,0.867398649,90,243,333
+AbstractSimplex,13,41,54,0.759259259,14,75,89,0.842696629,14,27,41
+CMAESOptimizer.FitnessFunction,8,14,22,0.636363636,10,26,36,0.722222222,6,10,16
+CMAESOptimizer.Sigma,0,4,4,1,0,7,7,1,0,4,4
+SimplexOptimizer.new MultivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+SimplexOptimizer.new Comparator() {...},0,2,2,1,0,4,4,1,0,3,3
+CMAESOptimizer,36,182,218,0.834862385,36,377,413,0.91283293,32,117,149
+AbstractLeastSquaresOptimizer,2,20,22,0.909090909,15,71,86,0.825581395,7,26,33
+NonLinearConjugateGradientOptimizer.LineSearchFunction,0,4,4,1,0,11,11,1,0,4,4
+LevenbergMarquardtOptimizer,21,181,202,0.896039604,15,360,375,0.96,18,93,111
+NonLinearConjugateGradientOptimizer,7,27,34,0.794117647,8,65,73,0.890410959,8,16,24
+AbstractDifferentiableOptimizer,0,0,0,100,6,0,6,0,4,0,4
+NonLinearConjugateGradientOptimizer.IdentityPreconditioner,0,0,0,100,0,2,2,1,0,2,2
+AbstractScalarDifferentiableOptimizer,0,0,0,100,1,7,8,0.875,1,4,5
+ConjugateGradientFormula,0,0,0,100,0,3,3,1,0,1,1
+GaussNewtonOptimizer,3,19,22,0.863636364,6,56,62,0.903225806,5,11,16
+EnclosingBall,0,4,4,1,0,11,11,1,0,9,9
+WelzlEncloser,1,19,20,0.95,1,45,46,0.97826087,1,14,15
+MaxIter,1,1,2,0.5,2,5,7,0.714285714,2,2,4
+BaseMultivariateOptimizer,2,28,30,0.933333333,1,36,37,0.972972973,2,20,22
+BaseOptimizer,0,6,6,1,4,27,31,0.870967742,2,13,15
+BaseOptimizer.MaxIterCallback,0,0,0,100,0,1,1,1,0,1,1
+AbstractOptimizationProblem.MaxEvalCallback,0,0,0,100,0,1,1,1,0,1,1
+BaseOptimizer.MaxEvalCallback,0,0,0,100,0,1,1,1,0,1,1
+PointVectorValuePair,3,9,12,0.75,0,13,13,1,3,10,13
+SimpleVectorValueChecker,0,12,12,1,0,21,21,1,0,9,9
+MaxEval,1,1,2,0.5,2,5,7,0.714285714,2,2,4
+PointValuePair,2,4,6,0.666666667,0,10,10,1,2,6,8
+AbstractOptimizationProblem.MaxIterCallback,0,0,0,100,0,1,1,1,0,1,1
+SimpleValueChecker,1,9,10,0.9,0,16,16,1,1,7,8
+PointValuePair.DataTransferObject,0,0,0,100,0,5,5,1,0,2,2
+AbstractConvergenceChecker,0,0,0,100,0,6,6,1,0,3,3
+PointVectorValuePair.DataTransferObject,0,0,0,100,0,5,5,1,0,2,2
+AbstractOptimizationProblem,0,0,0,100,0,10,10,1,0,5,5
+SimplePointChecker,2,10,12,0.833333333,0,21,21,1,2,7,9
+InitialGuess,0,0,0,100,0,4,4,1,0,2,2
+SimpleBounds,0,0,0,100,0,11,11,1,0,4,4
+BaseMultiStartMultivariateOptimizer,4,30,34,0.882352941,3,51,54,0.944444444,4,17,21
+BaseSecantSolver,3,45,48,0.9375,3,65,68,0.955882353,3,33,36
+FieldBracketingNthOrderBrentSolver,5,61,66,0.924242424,8,121,129,0.937984496,8,37,45
+AbstractDifferentiableUnivariateSolver,0,0,0,100,2,7,9,0.777777778,1,3,4
+BrentSolver,1,39,40,0.975,2,83,85,0.976470588,2,24,26
+NewtonRaphsonSolver,0,2,2,1,0,14,14,1,0,5,5
+LaguerreSolver.ComplexSolver,8,22,30,0.733333333,5,61,66,0.924242424,7,12,19
+SecantSolver,1,9,10,0.9,5,26,31,0.838709677,3,6,9
+MullerSolver2,5,15,20,0.75,6,49,55,0.890909091,6,8,14
+RiddersSolver,4,12,16,0.75,6,46,52,0.884615385,5,7,12
+AbstractUnivariateDifferentiableSolver,0,0,0,100,2,7,9,0.777777778,1,3,4
+BracketingNthOrderBrentSolver,1,65,66,0.984848485,1,131,132,0.992424242,1,43,44
+AbstractUnivariateSolver,0,0,0,100,0,6,6,1,0,3,3
+IllinoisSolver,0,0,0,100,6,2,8,0.25,3,1,4
+AbstractPolynomialSolver,0,0,0,100,4,6,10,0.6,2,3,5
+UnivariateSolverUtils,19,49,68,0.720588235,28,72,100,0.72,14,32,46
+BisectionSolver,0,4,4,1,2,17,19,0.894736842,1,5,6
+BaseAbstractUnivariateSolver,0,0,0,100,1,43,44,0.977272727,1,21,22
+LaguerreSolver,8,8,16,0.5,17,29,46,0.630434783,10,8,18
+BaseSecantSolver.Method,0,0,0,100,0,4,4,1,0,1,1
+AllowedSolution,0,0,0,100,0,6,6,1,0,1,1
+NewtonSolver,0,2,2,1,0,12,12,1,0,5,5
+PegasusSolver,0,0,0,100,2,6,8,0.75,1,3,4
+MullerSolver,5,31,36,0.861111111,5,59,64,0.921875,6,17,23
+RegulaFalsiSolver,0,0,0,100,6,2,8,0.25,3,1,4
+Weight,2,0,2,0,6,4,10,0.4,2,2,4
+MultivariateVectorOptimizer,0,10,10,1,0,25,25,1,0,13,13
+Target,0,0,0,100,0,4,4,1,0,2,2
+JacobianMultivariateVectorOptimizer,0,4,4,1,0,10,10,1,0,6,6
+ModelFunction,0,0,0,100,0,4,4,1,0,2,2
+ModelFunctionJacobian,0,0,0,100,0,4,4,1,0,2,2
+MultiStartMultivariateVectorOptimizer,0,0,0,100,0,11,11,1,0,5,5
+MultiStartMultivariateVectorOptimizer.new Comparator() {...},4,2,6,0.333333333,2,10,12,0.833333333,3,3,6
+UnivariatePointValuePair,0,0,0,100,0,6,6,1,0,3,3
+SearchInterval,3,3,6,0.5,2,12,14,0.857142857,3,5,8
+BracketFinder,10,36,46,0.782608696,9,83,92,0.902173913,13,22,35
+MultiStartUnivariateOptimizer.new Comparator() {...},3,5,8,0.625,1,8,9,0.888888889,3,3,6
+UnivariateOptimizer,0,8,8,1,0,24,24,1,0,12,12
+MultiStartUnivariateOptimizer,2,18,20,0.9,2,49,51,0.960784314,2,14,16
+BrentOptimizer,5,69,74,0.932432432,6,115,121,0.950413223,5,37,42
+UnivariateObjectiveFunction,0,0,0,100,0,4,4,1,0,2,2
+SimpleUnivariateValueChecker,1,9,10,0.9,0,16,16,1,1,7,8
+ChebyshevDistance,0,0,0,100,0,2,2,1,0,2,2
+EarthMoversDistance,0,2,2,1,0,9,9,1,0,3,3
+EuclideanDistance,0,0,0,100,0,2,2,1,0,2,2
+ManhattanDistance,0,0,0,100,0,2,2,1,0,2,2
+CanberraDistance,0,6,6,1,0,8,8,1,0,5,5
+Action,0,0,0,100,0,5,5,1,0,1,1
+Transformer.new Transformer() {...},0,0,0,100,0,2,2,1,0,2,2
+Transformer.new Transformer() {...},0,0,0,100,0,2,2,1,0,2,2
+Transformer.new Transformer() {...},0,0,0,100,0,2,2,1,0,2,2
+Transformer.new Transformer() {...},0,0,0,100,0,2,2,1,0,2,2
+Transformer.new Transformer() {...},0,0,0,100,0,2,2,1,0,2,2
+FieldEventState,27,37,64,0.578125,22,72,94,0.765957447,21,22,43
+Transformer,0,0,0,100,0,6,6,1,0,1,1
+FilterType,0,0,0,100,0,3,3,1,0,1,1
+EventFilter,2,20,22,0.909090909,4,42,46,0.913043478,3,13,16
+FilterType.new FilterType() {...},2,36,38,0.947368421,2,39,41,0.951219512,2,24,26
+FilterType.new FilterType() {...},2,36,38,0.947368421,2,39,41,0.951219512,2,24,26
+FieldEventState.new RealFieldUnivariateFunction() {...},0,0,0,100,0,2,2,1,0,2,2
+EventState,10,64,74,0.864864865,8,106,114,0.929824561,12,38,50
+EventState.new UnivariateFunction() {...},0,0,0,100,2,3,5,0.6,0,2,2
+EventHandler.Action,0,0,0,100,0,5,5,1,0,1,1
+EventState.LocalMaxCountExceededException,0,0,0,100,4,0,4,0,2,0,2
