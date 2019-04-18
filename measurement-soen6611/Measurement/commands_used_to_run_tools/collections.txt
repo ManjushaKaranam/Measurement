@@ -1,0 +1,7 @@
+commands to run jacoco plugin from maven for collections project:
+
+mvn clean install
+
+commands to run PITest plugin from maven for collections project:
+
+mvn org.pitest:pitest-maven:mutationCoverage
