@@ -1,0 +1,26 @@
+Go to the location of the project's pom.xml;
+
+commands to run jacoco plugin from maven for cli project:
+
+mvn clean install
+
+and
+
+mvn clean test(optional), if just running jacoco
+
+check target/site folder for jacoco report
+
+If running from eclipse eclemma plugin,
+
+First, install EclEmma plugin in eclipse Luna, right click on the project and do coverage as Junit test
+
+For Cyclomatic complexity,
+
+First, install Metrics plugin in eclipse Luna, right click on the project and build the project in project explorer view
+
+commands to run PITest plugin from maven for cli project:
+
+mvn org.pitest:pitest-maven:mutationCoverage
+
+check target/pit-report folder for mutation report
+
